@@ -265,4 +265,4 @@
 
 ## 8 - Changelog  
 
-  You can see the changelog [here](../sr-kaio-changelog)
+  You can see the changelog [here](CHANGELOG.md)

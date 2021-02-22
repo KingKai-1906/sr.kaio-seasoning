@@ -11,3 +11,7 @@ So, here's my first one, **Sr. Kaio Seasoning for TPF**, enjoy!
 You can access the instructions [here](INSTRUCTIONS.md).
 
 You can check the changelog [here](CHANGELOG.md).
+
+Mod suggestions can be dropped [here](https://github.com/caiobraz/sr.kaio-seasoning/projects/1)
+
+Please report any issues [here](https://github.com/caiobraz/sr.kaio-seasoning/issues)

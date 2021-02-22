@@ -6,11 +6,9 @@ But as I lack the time and expertise to curate and mantain a full-fledged guide,
   
 A *seasoning* is just a small follow-up guide to point-wise changes, just to polish a guide to personal tastes, without harming its core idea and without making the users have a chore to make these changes. It's less than a fork, since it depends on the main guide.
   
-So, here's my first one, **Sr. Kaio Seasoning for TPF**, enjoy!
+So, here's my first one, [**Sr. Kaio Seasoning for TPF**](INSTRUCTIONS.md), enjoy!
 
-You can access the instructions [here](INSTRUCTIONS.md).
-
-You can check the changelog [here](CHANGELOG.md).
+You can check the changelog at the releases panel!
 
 Mod suggestions can be dropped [here](https://github.com/caiobraz/sr.kaio-seasoning/projects/1)
 

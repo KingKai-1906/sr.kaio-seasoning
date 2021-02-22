@@ -6,14 +6,6 @@ description: >
    A personal touch within this truly majestic guide called The Phoenix Flavour. Don't intended to change the core *Vanilla+* approach beneath it, but just paint it with my own colors instead.
 ---
 
-  As an enthusiast of The Elder Scrolls universe and of Phoenix's majestic Skyrim SE guide, [The Phoenix Flavour](https://thephoenixflavour.com/), I've decided to try my luck with some aspects of modding guide.
-  
-  But as I lack the time and expertise to curate and mantain an entire guide, I thought about doing something less than a full guide, thus the idea of *seasoning* came to light.
-  
-  A *seasoning* is just a small follow-up guide to point-wise changes, just to polish a guide to personal tastes, without harming its core idea and without making the users have a chore to make these changes. It's less than a fork, since it depends on the main guide.
-  
-  So, here's my first one, **Sr. Kaio Seasoning for TPF**, enjoy!  
-
 ## 1 - Introduction  
   My idea was just to put my personal touch within this truly majestic guide called The Phoenix Flavour. I don't intend to change the core *Vanilla+* approach beneath it, but just paint it with my own colors instead.
   

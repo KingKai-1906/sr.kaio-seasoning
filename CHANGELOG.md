@@ -1,7 +1,7 @@
 # Sr. Kaio Seasoning - Changelog
 
 ## Release 4.3
->2020/02/21
+>2020/02/22
 
 Changing the versioning system, now my version matches The Phoenix Flavour one, so it is easier to track if you're up to date :)
 

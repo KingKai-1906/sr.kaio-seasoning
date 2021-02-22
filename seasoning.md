@@ -1,11 +1,3 @@
----
-title: "Sr. Kaio Seasoning for TPF 4.3.x"
-weight: 3
-type: docs
-description: >
-   A personal touch within this truly majestic guide called The Phoenix Flavour. Don't intended to change the core *Vanilla+* approach beneath it, but just paint it with my own colors instead.
----
-
 ## 1 - Introduction  
   My idea was just to put my personal touch within this truly majestic guide called The Phoenix Flavour. I don't intend to change the core *Vanilla+* approach beneath it, but just paint it with my own colors instead.
   

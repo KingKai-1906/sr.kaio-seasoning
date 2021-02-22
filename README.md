@@ -1,6 +1,6 @@
 # Sr. Kaio Seasoning for The Phoenix Flavour
 
-As an enthusiast of The Elder Scrolls universe and of Phoenix's majestic Skyrim SE guide, [The Phoenix Flavour](https://thephoenixflavour.com/), I've decided to try my luck with some aspects of the modding guide life.
+As an enthusiast of The Elder Scrolls universe and of Phoenix's majestic Skyrim SE guide, [**The Phoenix Flavour**](https://thephoenixflavour.com/), I've decided to try my luck with some aspects of the modding guide life.
   
 But as I lack the time and expertise to curate and mantain a full-fledged guide, I thought about doing something less than a full one, thus the idea of *seasoning* came to light.
   

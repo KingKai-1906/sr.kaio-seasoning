@@ -8,6 +8,6 @@ A *seasoning* is just a small follow-up guide to point-wise changes, just to pol
   
 So, here's my first one, **Sr. Kaio Seasoning for TPF**, enjoy!
 
-You can access the instructions [here](seasoning.md)
+You can access the instructions [here](INSTRUCTIONS.md).
 
-You can check the changelog [here](CHANGELOG.md)
+You can check the changelog [here](CHANGELOG.md).

@@ -230,7 +230,7 @@
     **Download:** Main Files > Sr. Kaio Seasoning CRP - 2.0
 
 ## 6 - Finishing Up  
-  - Download and apply the updated [loadorder.txt](https://drive.google.com/uc?export=download&id=1fIRRxScxQ_ew-uEcAHud4dKFWy3CAPK0),
+  - Download and apply the updated [loadorder.txt](loadorder.txt),
     the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
   - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/skyrim-se/finalisation/nemesis/) page, and redo all steps.
   - Go to TPF's [All Geared Up Derivative](https://thephoenixflavour.com/skyrim-se/finalisation/allgud/) page, and redo all steps.

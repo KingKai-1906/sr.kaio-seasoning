@@ -1,4 +1,4 @@
-# Sr. Kaio Seasoning for The Phoenix Flavour
+# Sr. Kaio Seasoning for The Phoenix Flavour - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z43RGG8)
 
 As an enthusiast of The Elder Scrolls universe and of Phoenix's majestic Skyrim SE guide, [**The Phoenix Flavour**](https://thephoenixflavour.com/), I've decided to try my luck with some aspects of the modding guide life.
   

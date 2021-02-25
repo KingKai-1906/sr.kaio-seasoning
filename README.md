@@ -1,4 +1,4 @@
-# Sr. Kaio Seasoning for The Phoenix Flavour - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z43RGG8)
+# Sr. Kaio Seasoning for The Phoenix Flavour
 
 As an enthusiast of The Elder Scrolls universe and of Phoenix's majestic Skyrim SE guide, [**The Phoenix Flavour**](https://thephoenixflavour.com/), I've decided to try my luck with some aspects of the modding guide life.
   
@@ -8,8 +8,14 @@ A *seasoning* is just a small follow-up guide to point-wise changes, just to pol
   
 So, here's my first one, [**Sr. Kaio Seasoning for TPF**](INSTRUCTIONS.md), enjoy!
 
+---
+
 You can check the changelog at the releases panel!
 
 Mod suggestions can be dropped [here](https://github.com/caiobraz/sr.kaio-seasoning/projects/1)
 
 Please report any issues [here](https://github.com/caiobraz/sr.kaio-seasoning/issues)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z43RGG8)
+
+---

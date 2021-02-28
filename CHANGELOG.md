@@ -3,11 +3,14 @@
 ## UNRELEASED
 > TBA
 
+#### Mod List - Disable
+- **TWEAKS:** Helgen Keep Bandit Chief Executioner
+
 #### Mod List - Added
-- **GAMEPLAY OVERHAULS** Triumvirate
+- **GAMEPLAY OVERHAULS:** Triumvirate
 
 #### Mod List - Updates
-- **LIGHTING** Dynamic Volumetric Lighting and Sun Shadows [1.0.1 to 1.0.2]
+- **LIGHTING:** Dynamic Volumetric Lighting and Sun Shadows [1.0.1 to 1.0.2]
 
 ## Release 4.3
 >2020/02/22

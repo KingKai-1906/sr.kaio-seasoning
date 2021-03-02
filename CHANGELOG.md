@@ -1,16 +1,26 @@
 # Sr. Kaio Seasoning - Changelog
 
 ## UNRELEASED
-> TBA
+> 2021/03/03
 
 #### Mod List - Disable
 - **TWEAKS:** Helgen Keep Bandit Chief Executioner
+- **INTERIORS** Centered Blue Palace Throne
 
 #### Mod List - Added
 - **GAMEPLAY OVERHAULS:** Triumvirate
+- **GAMEPLAY OVERHAULS:** Triumvirate - Adamant Compatibility Patch
+- **GAMEPLAY OVERHAULS:** Triumvirate - Mysticism Compatibility Patch
+- **NON PLAYER CHARACTERS:** Civil War Deserters
+- **MISCELLANEOUS:** Dragon Wall Wisdom - Readable Dragon Walls
+- **MISCELLANEOUS:** A Guiding Light - Clairvoyance Reimagined
+- **MISCELLANEOUS:** HearthFires - Unique Display Rooms - SSE
+- **MISCELLANEOUS:** Hearthfires Houses Building Fix
 
 #### Mod List - Updates
 - **LIGHTING:** Dynamic Volumetric Lighting and Sun Shadows [1.0.1 to 1.0.2]
+- **ASSORTED PLUGINS:** Stagger Direction Fix - SSE [0.96 to 2.02]
+- **FINAL PATCH:** Sr. Kaio Seasoning - Conflict Resolution Patch [2.0 to 4.4]
 
 ## Release 4.3
 >2020/02/22
@@ -23,7 +33,6 @@ This update requires a new game **UNLESS** you skip the update of **Pick up book
 
 - **ASSORTED PLUGINS** Disable Follower Collision
 - **MISC STRUCTURES** Skyrim 3D Signs
-- **ASSORTED PLUGINS** Disable Follower Collision
 - **PATCHER OUTPUT** Nemesis output
 
 #### Mod List - Install

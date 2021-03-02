@@ -32,6 +32,10 @@
   ### 5.1 - Disable Mods  
   Firstly, we're going to **disable** some mods that came with TPF. Don't delete them, because it'd break the original TPF profile, just disable them by clicking the checkbox at the left side of their names, and making sure they don't have a checkmark anymore.
 
+  ### TWEAKS
+  - [ ] **Helgen Keep Bandit Chief Executioner**  
+    We're adding a mod that covers this one
+
   ### INTERFACE
   - [ ] **Quick Loot RE**  
     I really don't like Quick Loot, it's intrusive and clunky for my tastes, let's stick with vanilla feel.
@@ -47,6 +51,10 @@
     The menu itself is AWESOME, I just wanted to change it to something more like myself :)
 
   ### MISC STRUCTURES
+  - [ ] **Centered Blue Palace Throne**  
+    We're going to install JK's Blue Palace, that covers this issue.
+  
+  ### INTERIORS
   - [ ] **Skyrim 3D Signs**  
     Those models are uncompatible with the **WiZkiD Signs** that we're going to install.
 
@@ -114,7 +122,7 @@
 
   ### LIGHTING  
   - #### [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483) - Author: *True Draconis - LonelyKitsuune*  
-    **Download:** Main Files > Dynamic Volumetric Lighting and Sun Shadows - 1.0.1  
+    **Download:** Main Files > Dynamic Volumetric Lighting and Sun Shadows - 1.0.2  
     **Download:** Optional Files > DVLaSS Skyrim Underside - 1.0.2
 
   ### ARCHITECTURE
@@ -154,6 +162,17 @@
     **Download:** Main Files > Illusion Staff HD - with Enb-Light - 1.0
   - #### [Restoration Staff HD](https://www.nexusmods.com/skyrimspecialedition/mods/39481) - Author: *PraedythXVI*  
     **Download:** Main Files > Restoration Staff HD - with Enb-Light - 1.3
+    
+  ### GAMEPLAY OVERHAULS
+  - #### [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) - Author: *Enai Siaion*  
+    Install each of the files as separate mods  
+    **Download:** Main Files > Triumvirate 1.7.0 - 1.7.0  
+    **Download:** Optional Files > Triumvirate - Adamant Compatibility Patch - 1.7.0  
+    **Download:** Optional Files > Triumvirate - Mysticism Compatibility Patch - 1.6.0
+    
+  ### NON PLAYER CHARACTERS
+  - #### [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497) - Author: *Pierre Despereaux*
+    **Download:** Main Files > Civil War Deserters - 1.1.0    
 
   ### MISCELLANEOUS  
   - #### [Pick up books simple - With weightless books option](https://www.nexusmods.com/skyrimspecialedition/mods/2453) - Author: *Alaebasta*  
@@ -166,10 +185,18 @@
     **Download:** Main Files > Spell Amnesia - 1.0
   - #### [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261) - Author: *Maxsu*
     **Download:** Main Files > NPC AI Process Pos Fix-SSE-V4.03c - v4.03c
-
+  - #### [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591) - Author: *Morogoth35*
+    **Download:** Main Files > Dragon Wall Wisdom - Readable Dragon Walls - 1.1
+  - #### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Author: *Parapets*
+    **Download:** Main Files > Guiding Wisp - 2.3.2
+  - #### [HearthFires - Unique Display Rooms - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4770) - Author: *Jayer117 and EdmondNoir*
+    **Download:** Main Files > HearthFires - Unique Special Edition Display Room - 6.0
+  - #### [Hearthfires Houses Building Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27298) - Author: *Ice885*
+    **Download:** Main Files > Hearthfires Houses Building Fix - 0.1
+  
   ### ASSORTED PLUGINS
   - #### [Stagger Direction Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/43339) - Author: *Maxsu*
-    **Download:** Main Files > Stagger Direction Fix-SSE V0.96 - 0.96
+    **Download:** Main Files > Stagger Direction Fix-SSE V2.02 - V2.02
   - #### [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997) - Author: *powerofthree*
     **Download:** Main Files > Essential Favorites - 2.0
 
@@ -227,7 +254,7 @@
 
   ### FINAL PATCH
   - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*
-    **Download:** Main Files > Sr. Kaio Seasoning CRP - 2.0
+    **Download:** Main Files > Sr. Kaio Seasoning CRP - 4.4
 
 ## 6 - Finishing Up  
   - Download and apply the updated [loadorder.txt](https://raw.githubusercontent.com/caiobraz/sr.kaio-seasoning/main/loadorder.txt) (right-click > `Save link as...`),

@@ -8,9 +8,7 @@
 - **INTERIORS** Centered Blue Palace Throne
 
 #### Mod List - Added
-- **GAMEPLAY OVERHAULS:** Triumvirate
-- **GAMEPLAY OVERHAULS:** Triumvirate - Adamant Compatibility Patch
-- **GAMEPLAY OVERHAULS:** Triumvirate - Mysticism Compatibility Patch
+- **GAMEPLAY OVERHAULS:** Triumvirate - Mage Archetypes
 - **NON PLAYER CHARACTERS:** Civil War Deserters
 - **MISCELLANEOUS:** Dragon Wall Wisdom - Readable Dragon Walls
 - **MISCELLANEOUS:** A Guiding Light - Clairvoyance Reimagined

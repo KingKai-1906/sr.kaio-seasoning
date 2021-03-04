@@ -41,14 +41,14 @@
     I really don't like Quick Loot, it's intrusive and clunky for my tastes, let's stick with vanilla feel.
   - [ ] **A Matter of Time - Phoenix Preset**  
     Will be replaced by a preset made by me, sorry Phoenix, mine is way way better :P
-  - [ ] **Immersive Lockpicking**  
-    Although the idea of immersiveness is nice, I don't like to lose informational HUD elements, therefore, this one is disabled.
-  - [ ] **Immersive Bookreading**  
-    Same as Immersive Lockpicking, I really want to know if the book I'm reading will be stolen or not if I take it.
   - [ ] **Roboto Font Replacer**  
     The font itself is good, but doesn't fit Skyrim at all, I'd rather play with the vanilla font. But we'll be using Sovngarde Light as a replacer, that fits so much better in my opinion.
   - [ ] **DRELDYN's Original Main Menu Overhaul**  
     The menu itself is AWESOME, I just wanted to change it to something more like myself :)
+  - [ ] **Immersive Lockpicking**  
+    Although the idea of immersiveness is nice, I don't like to lose informational HUD elements, therefore, this one is disabled.
+  - [ ] **Immersive Bookreading**  
+    Same as Immersive Lockpicking, I really want to know if the book I'm reading will be stolen or not if I take it.
 
   ### MISC STRUCTURES
   - [ ] **Centered Blue Palace Throne**  

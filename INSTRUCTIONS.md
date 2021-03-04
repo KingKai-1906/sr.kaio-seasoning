@@ -51,12 +51,12 @@
     Same as Immersive Lockpicking, I really want to know if the book I'm reading will be stolen or not if I take it.
 
   ### MISC STRUCTURES
-  - [ ] **Centered Blue Palace Throne**  
-    We're going to install JK's Blue Palace, that covers this issue.
-  
-  ### INTERIORS
   - [ ] **Skyrim 3D Signs**  
     Those models are uncompatible with the **WiZkiD Signs** that we're going to install.
+    
+  ### INTERIORS
+  - [ ] **Centered Blue Palace Throne**  
+    We're going to install JK's Blue Palace, that covers this issue.
 
   ### ASSORTED PLUGINS
   - [ ] **No Attack Messages**  

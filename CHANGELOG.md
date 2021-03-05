@@ -1,7 +1,7 @@
 # Sr. Kaio Seasoning - Changelog
 
 ## UNRELEASED
-> 2021/03/03
+> 2021/03/06
 
 #### Mod List - Disable
 - **TWEAKS:** Helgen Keep Bandit Chief Executioner
@@ -14,11 +14,17 @@
 - **MISCELLANEOUS:** A Guiding Light - Clairvoyance Reimagined
 - **MISCELLANEOUS:** HearthFires - Unique Display Rooms - SSE
 - **MISCELLANEOUS:** Hearthfires Houses Building Fix
+- **SKELETONS & ANIMATIONS:** Ultimate Combat and Creatures Behaviour compatibility for Nemesis
 
 #### Mod List - Updates
 - **LIGHTING:** Dynamic Volumetric Lighting and Sun Shadows [1.0.1 to 1.0.2]
 - **ASSORTED PLUGINS:** Stagger Direction Fix - SSE [0.96 to 2.02]
+- **ASSORTED PLUGINS:** Reading Is Good (SKSE) [1.0.2 to 1.0.3]
 - **FINAL PATCH:** Sr. Kaio Seasoning - Conflict Resolution Patch [2.0 to 4.4]
+
+#### Mod List - Changed Position
+- **MISCELLANEOUS:** NPC AI Process Position Fix - SSE **moved** to **ASSORTED PLUGINS**
+
 
 ## Release 4.3
 >2020/02/22

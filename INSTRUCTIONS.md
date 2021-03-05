@@ -111,7 +111,8 @@
       - Nothing (an Invisible Icon)
   - #### [Main Menu Wallpaper](https://www.nexusmods.com/skyrimspecialedition/mods/1178) - Author: *Hellstorm102*  
     **Download:** Optional Files > Main Menu Wallpaper - Book Cover - 1.0
-  
+  - #### [FiraCode for Console UI](https://www.nexusmods.com/skyrimspecialedition/mods/12387) - Author: *Hellstorm102*  
+    **Download:** Main Files > Fira Code for Skyrim SE - A
 
   ### WEATHER  
   - #### [Improved Rain and Fog for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/27831) - Author: *Nawor3565*  
@@ -254,7 +255,7 @@
 
   ### FINAL PATCH
   - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*
-    **Download:** Main Files > Sr. Kaio Seasoning CRP - 4.4
+    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.4
 
 ## 6 - Finishing Up  
   - Download and apply the updated [loadorder.txt](https://raw.githubusercontent.com/caiobraz/sr.kaio-seasoning/main/loadorder.txt) (right-click > `Save link as...`),

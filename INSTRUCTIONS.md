@@ -173,13 +173,13 @@
     
   ### NON PLAYER CHARACTERS
   - #### [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497) - Author: *Pierre Despereaux*
-    **Download:** Main Files > Civil War Deserters - 1.1.0    
+    **Download:** Main Files > Civil War Deserters - 1.2.0    
 
   ### MISCELLANEOUS  
   - #### [Pick up books simple - With weightless books option](https://www.nexusmods.com/skyrimspecialedition/mods/2453) - Author: *Alaebasta*  
     **Download:** Main Files > Pick up books simple .esp flagged as .esl - 2.0
   - #### [Reading is Good (SKSE)](https://www.nexusmods.com/skyrimspecialedition/mods/42026) - Author: *Parapets*  
-    **Download:** Main Files > Reading Is Good - 1.0.2
+    **Download:** Main Files > Reading Is Good - 1.0.3
   - #### [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091) - Author: *Imp of the Perverse - Threepkiller*  
     **Download:** Main Files > First Person Camera Height Fix - 1.2.2
   - #### [Spell Amnesia](https://www.nexusmods.com/skyrimspecialedition/mods/4091) - Author: *Vox Sola*  

@@ -252,6 +252,8 @@
     **Download:** Main Files > Riekling Roughriders - 1.1
   - #### [Bristleback Boars](https://www.nexusmods.com/skyrimspecialedition/mods/22578) - Author: *Rougeshot*
     **Download:** Main Files > Bristleback Boars - 1.0
+  - #### [Ultimate Combat and Creatures Behaviour compatibility for Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/45966) - Author: *NickNak*
+    **Download:** Main Files > Ultimate Combat and Creature Behaviour's Nemesis Compatibility - 1.12
 
   ### FINAL PATCH
   - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*
@@ -260,9 +262,11 @@
 ## 6 - Finishing Up  
   - Download and apply the updated [loadorder.txt](https://raw.githubusercontent.com/caiobraz/sr.kaio-seasoning/main/loadorder.txt) (right-click > `Save link as...`),
     the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
-  - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/skyrim-se/finalisation/nemesis/) page, and redo all steps.
+  - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/skyrim-se/finalisation/nemesis/) page, and redo all steps **BUT**
+    with an additional detail: before hitting `Update engine` on Nemesis, you need to check the `Maxsu Stagger Direction Fix` checkbox.
+    It is the 7th entry on the list, with priority 6, just check it.
   - Go to TPF's [All Geared Up Derivative](https://thephoenixflavour.com/skyrim-se/finalisation/allgud/) page, and redo all steps.
-  - Go to the **ESSENTIAL MODS** separator,right click on mod **SSE Engine Fixes (skse64 plugin)** and choose `Open in Explorer`,
+  - Go to the **ESSENTIAL MODS** separator, right click on mod **SSE Engine Fixes (skse64 plugin)** and choose `Open in Explorer`,
     then navigate `SKSE > Plugins`, open `EngineFixes.toml` and make sure to properly set this setting:  
       - `SleepWaitTime=false`
 

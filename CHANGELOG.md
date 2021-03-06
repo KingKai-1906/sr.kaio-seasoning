@@ -1,6 +1,6 @@
 # Sr. Kaio Seasoning - Changelog
 
-## UNRELEASED
+## Release 4.4
 > 2021/03/06
 
 #### Mod List - Disable

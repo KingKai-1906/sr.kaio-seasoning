@@ -7,6 +7,9 @@
 - **TWEAKS:** Helgen Keep Bandit Chief Executioner
 - **INTERIORS** Centered Blue Palace Throne
 
+#### Mod List - Changed Position
+- **MISCELLANEOUS:** NPC AI Process Position Fix - SSE **moved** to **ASSORTED PLUGINS**
+
 #### Mod List - Added
 - **GAMEPLAY OVERHAULS:** Triumvirate - Mage Archetypes
 - **NON PLAYER CHARACTERS:** Civil War Deserters
@@ -22,9 +25,8 @@
 - **ASSORTED PLUGINS:** Reading Is Good (SKSE) [1.0.2 to 1.0.3]
 - **FINAL PATCH:** Sr. Kaio Seasoning - Conflict Resolution Patch [2.0 to 4.4]
 
-#### Mod List - Changed Position
-- **MISCELLANEOUS:** NPC AI Process Position Fix - SSE **moved** to **ASSORTED PLUGINS**
-
+#### Finishing Up
+- Updated instructions for Nemesis Behavior Engine, to match the new requirement for Stagger Direction Fix
 
 ## Release 4.3
 >2020/02/22

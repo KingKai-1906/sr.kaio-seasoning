@@ -34,6 +34,7 @@ QuestsAreInSkyrimUSSEP.esp
 Skyrim Landscape and Water Fixes - Light Sources.esp
 Landscape Fixes For Grass Mods.esp
 Landscape For Grass Mods - Military Camps.esp
+NoGrassINCaves.esp
 NARC SE for Vanilla.esp
 Raven Rock - Fix Exit on Horseback.esp
 Dawnguard Dont Hunt Cured Vampires.esp
@@ -87,7 +88,6 @@ dD-Medium Script Range.esp
 dD-Reduced Wound Size.esp
 DeadlySpellImpacts.esp
 Frost Meshes Patch.esp
-GhostFXWorkaround-MysticismPatch.esp
 Enhanced Vanilla Trees SSE.esp
 fallentreebridgesSSE.esp
 fallenbridgesSSE-Patch.esp
@@ -136,7 +136,6 @@ SpiceOfLife - OrcLStrongholds.esp
 ORM-Arvak.esp
 HagravenSkinShaders.esp
 UniqueBarbas.esp
-Saeri_AetherialCrown.esp
 Book Covers Skyrim.esp
 RUSTIC SOULGEMS - Sorted.esp
 StrosMKaiRum.esp
@@ -146,9 +145,9 @@ FranklyHDImperialArmorsAndWeapons.esp
 GQJ_DG_vampireamuletfix.esp
 Unique Uniques.esp
 Unique Zephyr.esp
-MildHairColors.esp
 FacegenForKids.esp
 MysticismMagic.esp
+GhostFXWorkaround-MysticismPatch.esp
 MoreExpensiveTransmute-Mysticism.esp
 Adamant.esp
 AdamantShrines.esp
@@ -235,7 +234,7 @@ Mortal Enemies - No RunWalk Changes.esp
 Realistic Melee Range.esp
 BladeAndBlunt.esp
 Arena.esp
-Realistic AI Detection 2 SE Lite.esp
+Realistic AI Detection 2 SE - Medium Interior, Medium Exterior.esp
 Better Stealth AI for Followers.esp
 Improved Traps.esp
 DisarmingTrapsIsDangerous.esp
@@ -265,7 +264,6 @@ aMidianBorn Armor Variants Lite - Enchanting Adjustments Patch.esp
 Morrowloot Miscellania - Unleveled Uniques.esp
 Saddlebags.esp
 Horses for Followers.esp
-QuickLight.esp
 Ish's Respec Mod.esp
 ViewableFactionRanks.esp
 DurnehviirResurrected.esp
@@ -308,7 +306,6 @@ Civil War Deserters.esp
 Triumvirate - Mage Archetypes.esp
 Luminosity Lighting Overhaul.esp
 OCW_CellSettings.esp
-Serio's Cycle Hotkeys.esp
 Obsidian In Cathedral.esp
 First Person Camera Height Fix.esp
 PickUpBooksSimple.esp
@@ -317,14 +314,10 @@ spell_amnesia_SSE.esp
 Hearthfires Houses Building Fix.esp
 Triumvirate - Adamant Compatibility Patch.esp
 Triumvirate - Mysticism Compatibility Patch.esp
-GuidingLight.esp
 The Phoenix Flavour - Conflict Resolution Patch.esp
-SKS_JK_blue_palace_patch.esp
-SKS_JK_candlehearth_patch.esp
-SKS_JK_sleeping_giant_patch.esp
-SKS_JK_winking_patch.esp
-SKS_triumvirate.esp
-SKS_unique_display.esp
+GuidingLight.esp
+SKS-CRP.esp
+NaturalHairColors.esp
 Facegen Output.esp
 Facegen Output0.esp
 FNIS.esp

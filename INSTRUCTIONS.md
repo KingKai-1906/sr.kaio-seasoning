@@ -15,7 +15,7 @@
 
 ## 3 - Prerequisites
   - Skyrim Special Edition with the 3 DLCs
-  - **100% UNTOUCHED** version of **The Phoenix Flavour 4.3.x**, installed either manually or via Wabbajack  
+  - **100% UNTOUCHED** version of **The Phoenix Flavour 4.4.2**, installed either manually or via Wabbajack  
 
 ## 4 - Setup
   - **Profile Creation:**  

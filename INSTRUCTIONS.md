@@ -157,16 +157,6 @@
   - #### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545) - Author: *WiZkiD*
     **Download:** Main Files > Ancient Imperial Septims - Classic Gold - 1.2
 
-  ### APPAREL & WEAPONS  
-  - #### [Alteration Staff HD](https://www.nexusmods.com/skyrimspecialedition/mods/45424) - Author: *PraedythXVI*  
-    **Download:** Main Files > Alteration Staff HD - with Enb-Light - 1.0
-  - #### [Conjuration Staff HD](https://www.nexusmods.com/skyrimspecialedition/mods/39479) - Author: *PraedythXVI*  
-    **Download:** Main Files > Conjuration Staff HD - with Enb-Light - 1.2
-  - #### [Illusion Staff HD](https://www.nexusmods.com/skyrimspecialedition/mods/45423) - Author: *PraedythXVI*  
-    **Download:** Main Files > Illusion Staff HD - with Enb-Light - 1.0
-  - #### [Restoration Staff HD](https://www.nexusmods.com/skyrimspecialedition/mods/39481) - Author: *PraedythXVI*  
-    **Download:** Main Files > Restoration Staff HD - with Enb-Light - 1.3
-    
   ### GAMEPLAY OVERHAULS
   - #### [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) - Author: *Enai Siaion*  
     Install each of the files as separate mods  

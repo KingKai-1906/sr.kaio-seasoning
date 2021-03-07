@@ -17,9 +17,9 @@ MajesticMountains_Landscape.esm
 MajesticMountains_Moss.esp
 RealisticWaterTwo - Resources.esm
 Lanterns Of Skyrim II.esm
+DynDOLOD.esm
 SimpleChildren.esp
 FISS.esp
-DynDOLOD.esm
 Disable USSEP Book.esl
 DVLaSS Skyrim Underside.esp
 Autorun.esp
@@ -131,8 +131,9 @@ Soljund's Sinkhole.esp
 LoS II - Soljund's Skinkhole patch.esp
 Whistling Mine.esp
 LoS II - Whistling Mine patch.esp
-PilgrimsDelight.esp
 SpiceOfLife - OrcLStrongholds.esp
+PilgrimsDelight.esp
+CenteredBluePalaceThrone.esp
 ORM-Arvak.esp
 HagravenSkinShaders.esp
 UniqueBarbas.esp
@@ -145,6 +146,7 @@ FranklyHDImperialArmorsAndWeapons.esp
 GQJ_DG_vampireamuletfix.esp
 Unique Uniques.esp
 Unique Zephyr.esp
+NaturalHairColors.esp
 FacegenForKids.esp
 MysticismMagic.esp
 GhostFXWorkaround-MysticismPatch.esp
@@ -176,6 +178,7 @@ AI Overhaul.esp
 Misc Tweaks - No Starting Spells - AI Overhaul Version.esp
 TavernAIFix.esp
 Guard Dialogue Overhaul.esp
+Hunters Dialogue Edit.esp
 Hunters Not Bandits.esp
 ThugsNotAssassins.esp
 PrinceandPauper.esp
@@ -296,12 +299,6 @@ Realistic Water Two - Landscape For Grass Mods Patch.esp
 RoriksteadBasaltCliffs - Rorikstead + Landscape Fixes for Grass Mods Patch.esp
 Misc Dialogue Edits.esp
 More Dialogue Options.esp
-JK's Blue Palace.esp
-JK's Candlehearth Hall.esp
-JK's Dragonsreach.esp
-JK's Sleeping Giant Inn.esp
-JK's The Bannered Mare.esp
-JK's The Winking Skeever.esp
 Civil War Deserters.esp
 Triumvirate - Mage Archetypes.esp
 Luminosity Lighting Overhaul.esp
@@ -315,9 +312,9 @@ Hearthfires Houses Building Fix.esp
 Triumvirate - Adamant Compatibility Patch.esp
 Triumvirate - Mysticism Compatibility Patch.esp
 The Phoenix Flavour - Conflict Resolution Patch.esp
+SKS-TVR.esp
+SKS-UDR.esp
 GuidingLight.esp
-SKS-CRP.esp
-NaturalHairColors.esp
 Facegen Output.esp
 Facegen Output0.esp
 FNIS.esp

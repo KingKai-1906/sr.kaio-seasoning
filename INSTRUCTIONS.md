@@ -55,6 +55,9 @@
     Those models are uncompatible with the **WiZkiD Signs** that we're going to install.
     
   ### INTERIORS
+  - [ ] **Septims HD**  
+    
+  ### VALUABLE ITEMS
   - [ ] **Centered Blue Palace Throne**  
     We're going to install JK's Blue Palace, that covers this issue.
 
@@ -150,7 +153,7 @@
   - #### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991) - Author: *jkrojmal*  
     **Download:** Main Files > JK's The Winking Skeever - 1.1.0
 
-  ### CLUTTER
+  ### VALUABLE ITEMS
   - #### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545) - Author: *WiZkiD*
     **Download:** Main Files > Ancient Imperial Septims - Classic Gold - 1.2
 

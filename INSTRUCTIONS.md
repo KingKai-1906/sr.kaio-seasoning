@@ -56,6 +56,7 @@
     
   ### VALUABLE ITEMS
   - [ ] **Septims HD**  
+    We're installing a texture I personally like more.
 
   ### ASSORTED PLUGINS
   - [ ] **No Attack Messages**  

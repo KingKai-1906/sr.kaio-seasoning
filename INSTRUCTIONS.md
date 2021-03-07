@@ -243,6 +243,11 @@
     **Download:** Main Files > Bristleback Boars - 1.0
   - #### [Ultimate Combat and Creatures Behaviour compatibility for Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/45966) - Author: *NickNak*
     **Download:** Main Files > Ultimate Combat and Creature Behaviour's Nemesis Compatibility - 1.12
+    FOMOD Instructions:  
+    - Page 1
+      - Leave, justo go next
+    - Page 2
+      - Leave all UNCKECKED
 
   ### FINAL PATCH
   - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*

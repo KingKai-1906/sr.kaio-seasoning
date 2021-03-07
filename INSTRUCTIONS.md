@@ -245,11 +245,6 @@
     with an additional detail: before hitting `Update engine` on Nemesis, you need to check the `Maxsu Stagger Direction Fix` checkbox.
     It is the 7th entry on the list, with priority 6, just check it.
   - Go to TPF's [All Geared Up Derivative](https://thephoenixflavour.com/skyrim-se/finalisation/allgud/) page, and redo all steps.
-  - Go to the **ESSENTIAL MODS** separator, right click on mod **SSE Engine Fixes (skse64 plugin)** and choose `Open in Explorer`,
-    then navigate `SKSE > Plugins`, open `EngineFixes.toml` and make sure to properly set this setting:  
-      - `SleepWaitTime=false`
-
-    This tweak is needed to avoid **NPC AI Processing Fix** not having enough time to process all NPCs.
  
 ## 7 - MCM Configuration
   - Go to [TPF Mod Configuration page](https://thephoenixflavour.com/skyrim-se/mod-configuration/), and follow all the steps.

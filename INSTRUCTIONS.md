@@ -138,21 +138,6 @@
     - Page 2
       - Leave all UNCKECKED
 
-  ### INTERIORS  
-  Here, just some JK's revamped interiors, namely the inns and palace ones.
-  - #### [JK's Dragonsreach](https://www.nexusmods.com/skyrimspecialedition/mods/34000) - Author: *jkrojmal*  
-    **Download:** Main Files > JK's Dragonsreach - 1.1.0
-  - #### [JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/45324) - Author: *jkrojmal*  
-    **Download:** Main Files > JK's Blue Palace - 1.1.0
-  - #### [JK's The Bannered Mare](https://www.nexusmods.com/skyrimspecialedition/mods/33845) - Author: *jkrojmal*  
-    **Download:** Main Files > JK's The Bannered Mare - 1.0.1
-  - #### [JK's Candlehearth Hall](https://www.nexusmods.com/skyrimspecialedition/mods/45617) - Author: *jkrojmal*  
-    **Download:** Main Files > JK's Candlehearth Hall - 1.0.0
-  - #### [JK's Sleeping Giant Inn](https://www.nexusmods.com/skyrimspecialedition/mods/35806) - Author: *jkrojmal*  
-    **Download:** Main Files > JK's Sleeping Giant Inn - 1.0.0
-  - #### [JK's The Winking Skeever](https://www.nexusmods.com/skyrimspecialedition/mods/43991) - Author: *jkrojmal*  
-    **Download:** Main Files > JK's The Winking Skeever - 1.1.0
-
   ### VALUABLE ITEMS
   - #### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545) - Author: *WiZkiD*
     **Download:** Main Files > Ancient Imperial Septims - Classic Gold - 1.2

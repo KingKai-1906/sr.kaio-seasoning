@@ -54,12 +54,8 @@
   - [ ] **Skyrim 3D Signs**  
     Those models are uncompatible with the **WiZkiD Signs** that we're going to install.
     
-  ### INTERIORS
-  - [ ] **Septims HD**  
-    
   ### VALUABLE ITEMS
-  - [ ] **Centered Blue Palace Throne**  
-    We're going to install JK's Blue Palace, that covers this issue.
+  - [ ] **Septims HD**  
 
   ### ASSORTED PLUGINS
   - [ ] **No Attack Messages**  

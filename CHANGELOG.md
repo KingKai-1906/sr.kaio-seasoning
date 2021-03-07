@@ -1,5 +1,48 @@
 # Sr. Kaio Seasoning - Changelog
 
+## Release 4.4.2
+> 2021/03/07
+
+Update to match TPF 4.4.2 release and to do a little cleanup: JK's interiors and PraedithXVI staves got the boot!
+
+The interiors were more hassle than gain for me and the staves need some improvement, maybe they'll be readded in the future.
+
+After updating the seasoning for 4.4.2, you'll need to regen Nemesis and AllGUD steps.
+
+This update is save safe! :)
+
+#### Mod List - Enable
+- **INTERIORS** Centered Blue Palace Throne  
+  > We're reenabling this one, due to the removal of JK's Blue Palace
+
+#### Mod List - Changed Position
+- **CLUTTER:** Ancient Imperial Septims **moved** to **VALUABLE ITEMS**
+
+#### Mod List - Removed
+- **INTERIORS:** JK's Dragonsreach
+- **INTERIORS:** JK's Blue Palace
+- **INTERIORS:** JK's The Bannered Mare
+- **INTERIORS:** JK's Candlehearth Hall
+- **INTERIORS:** JK's Sleeping Giant Inn
+- **INTERIORS:** JK's The Winking Skeever
+- **APPAREL & WEAPONS:** Alteration Staff HD
+- **APPAREL & WEAPONS:** Conjuration Staff HD
+- **APPAREL & WEAPONS:** Illusion Staff HD
+- **APPAREL & WEAPONS:** Restoration Staff HD
+- **MISCELLANEOUS:** NPC AI Process Position Fix - SSE  
+  > Added to TPF
+- **ASSORTED PLUGINS:** Essential Favorites  
+  > Added to TPF
+
+#### Mod List - Added
+- **SKELETONS & ANIMATIONS:** Added FOMOD instructions to Ultimate Combat and Creatures Behaviour compatibility for Nemesis
+
+#### Mod List - Updates
+- **FINAL PATCH:** Sr. Kaio Seasoning - Conflict Resolution Patch [4.4 to 4.4.2]
+
+#### Finishing Up
+- Removed instructions for SSE Engine Fixes, now they are included on TPF
+
 ## Release 4.4
 > 2021/03/06
 

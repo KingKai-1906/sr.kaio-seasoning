@@ -257,7 +257,7 @@
 
   ### FINAL PATCH
   - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*
-    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.4
+    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.4.2
 
 ## 6 - Finishing Up  
   - Download and apply the updated [loadorder.txt](https://raw.githubusercontent.com/caiobraz/sr.kaio-seasoning/main/loadorder.txt) (right-click > `Save link as...`),

@@ -184,8 +184,6 @@
     **Download:** Main Files > First Person Camera Height Fix - 1.2.2
   - #### [Spell Amnesia](https://www.nexusmods.com/skyrimspecialedition/mods/4091) - Author: *Vox Sola*  
     **Download:** Main Files > Spell Amnesia - 1.0
-  - #### [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261) - Author: *Maxsu*
-    **Download:** Main Files > NPC AI Process Pos Fix-SSE-V4.03c - v4.03c
   - #### [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591) - Author: *Morogoth35*
     **Download:** Main Files > Dragon Wall Wisdom - Readable Dragon Walls - 1.1
   - #### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Author: *Parapets*
@@ -198,8 +196,6 @@
   ### ASSORTED PLUGINS
   - #### [Stagger Direction Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/43339) - Author: *Maxsu*
     **Download:** Main Files > Stagger Direction Fix-SSE V2.02 - V2.02
-  - #### [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997) - Author: *powerofthree*
-    **Download:** Main Files > Essential Favorites - 2.0
 
   ### SKELETON & ANIMATIONS
   - #### [Supreme Dwemer Spheres](https://www.nexusmods.com/skyrimspecialedition/mods/35769) - Author: *Rougeshot*

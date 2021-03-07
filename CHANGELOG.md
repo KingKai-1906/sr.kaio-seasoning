@@ -9,7 +9,13 @@ The interiors were more hassle than gain for me and the staves need some improve
 
 After updating the seasoning for 4.4.2, you'll need to regen Nemesis and AllGUD steps.
 
-This update is save safe! :)
+The update is save-safe, just **BE SURE** to save outside the following locations before updating:  
+- Blue Palace
+- Winking Skeever
+- Dragonsreach
+- The Bannered Mare
+- Sleeping Giant Inn
+- Candlehearth Hall
 
 #### Mod List - Enable
 - **INTERIORS** Centered Blue Palace Throne  

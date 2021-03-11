@@ -60,7 +60,6 @@ dD-No Spinning Death Animation Merged.esp
 Fixed body collision.esp
 SparklesSE.esp
 SimplySmallerWolfs2.esp
-RaceMenu.esp
 iHUD.esp
 AHZmoreHUD.esp
 AHZmoreHUDInventory.esp
@@ -290,7 +289,6 @@ Hun Lovaas.esp
 Around the Fire.esp
 NirShor-MusicalLore.esp
 Phoenix - Merged Music Patch.esp
-XPMSE.esp
 All Geared Up Derivative.esp
 AllGUD Conditions Fix.esp
 Dragon Wall Wisdom.esp

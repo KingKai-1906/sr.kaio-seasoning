@@ -154,7 +154,7 @@
   - #### [Pick up books simple - With weightless books option](https://www.nexusmods.com/skyrimspecialedition/mods/2453) - Author: *Alaebasta*  
     **Download:** Main Files > Pick up books simple .esp flagged as .esl - 2.0
   - #### [Reading is Good (SKSE)](https://www.nexusmods.com/skyrimspecialedition/mods/42026) - Author: *Parapets*  
-    **Download:** Main Files > Reading Is Good - 1.0.3
+    **Download:** Main Files > Reading Is Good - 1.0.4
   - #### [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091) - Author: *Imp of the Perverse - Threepkiller*  
     **Download:** Main Files > First Person Camera Height Fix - 1.2.2
   - #### [Spell Amnesia](https://www.nexusmods.com/skyrimspecialedition/mods/4091) - Author: *Vox Sola*  

@@ -114,13 +114,6 @@
   - #### [FiraCode for Console UI](https://www.nexusmods.com/skyrimspecialedition/mods/12387) - Author: *Hellstorm102*  
     **Download:** Main Files > Fira Code for Skyrim SE - A
 
-  ### WEATHER  
-  - #### [Improved Rain and Fog for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/27831) - Author: *Nawor3565*  
-    **Download:** Main Files > Improved Rain and Fog for Cathedral Weathers - 4.0  
-    FOMOD Instructions:  
-    - Page 1
-      - No Darker Nights
-
   ### LIGHTING  
   - #### [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483) - Author: *True Draconis - LonelyKitsuune*  
     **Download:** Main Files > Dynamic Volumetric Lighting and Sun Shadows - 1.0.2  

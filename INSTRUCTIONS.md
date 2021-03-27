@@ -170,7 +170,7 @@
   
   ### ASSORTED PLUGINS
   - #### [Stagger Direction Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/43339) - Author: *Maxsu*
-    **Download:** Main Files > Stagger Direction Fix-SSE V2.02 - V2.02
+    **Download:** Main Files > Stagger Direction Fix-SSE V2.02a - V2.02a
 
   ### SKELETON & ANIMATIONS
   - #### [Supreme Dwemer Spheres](https://www.nexusmods.com/skyrimspecialedition/mods/35769) - Author: *Rougeshot*

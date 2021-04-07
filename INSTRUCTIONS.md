@@ -37,8 +37,6 @@
     We're adding a mod that covers this one
 
   ### INTERFACE
-  - [ ] **Quick Loot RE**  
-    I really don't like Quick Loot, it's intrusive and clunky for my tastes, let's stick with vanilla feel.
   - [ ] **A Matter of Time - Phoenix Preset**  
     Will be replaced by a preset made by me, sorry Phoenix, mine is way way better :P
   - [ ] **Roboto Font Replacer**  

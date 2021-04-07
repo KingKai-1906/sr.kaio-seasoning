@@ -66,10 +66,6 @@
 
   Every downloaded mod must be installed, activated and put under the corresponding separator.
  
-  ### FIXES
-  - #### [Bowlegged jump animation fix](https://www.nexusmods.com/skyrimspecialedition/mods/2215) - Author: *mirap*
-    **Download:** Main Files > Bowlegged jump fix - 1.1
- 
   ### INTERFACE    
   - #### [A Matter of Time - Sr. Kaio Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45785) - Author: *Sr. Kaio*  
     **Download:** Main Files > Sr. Kaio Preset - 1.0

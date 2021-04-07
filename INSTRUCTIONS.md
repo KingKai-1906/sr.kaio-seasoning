@@ -32,10 +32,6 @@
   ### 5.1 - Disable Mods  
   Firstly, we're going to **disable** some mods that came with TPF. Don't delete them, because it'd break the original TPF profile, just disable them by clicking the checkbox at the left side of their names, and making sure they don't have a checkmark anymore.
 
-  ### TWEAKS
-  - [ ] **Helgen Keep Bandit Chief Executioner**  
-    We're adding a mod that covers this one
-
   ### INTERFACE
   - [ ] **A Matter of Time - Phoenix Preset**  
     Will be replaced by a preset made by me, sorry Phoenix, mine is way way better :P

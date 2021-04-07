@@ -138,8 +138,6 @@
     **Download:** Main Files > First Person Camera Height Fix - 1.2.2
   - #### [Spell Amnesia](https://www.nexusmods.com/skyrimspecialedition/mods/4091) - Author: *Vox Sola*  
     **Download:** Main Files > Spell Amnesia - 1.0
-  - #### [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591) - Author: *Morogoth35*
-    **Download:** Main Files > Dragon Wall Wisdom - Readable Dragon Walls - 1.1
   - #### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Author: *Parapets*
     **Download:** Main Files > Guiding Wisp - 2.3.2
   - #### [HearthFires - Unique Display Rooms - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4770) - Author: *Jayer117 and EdmondNoir*

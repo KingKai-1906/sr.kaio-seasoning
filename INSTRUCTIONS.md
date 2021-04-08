@@ -55,11 +55,8 @@
     Although it's nice to don't have your way blocked by your followers, unfortunately it adds a lot of clipping issues and bad follower positioning, so, this one is going out!
 
   ### PATCHER OUTPUT  
-  We'll need to re-run the Nemesis and AllGUD patchers, beacause we're adding some skeleton and weapon mods, so, before anything, disable the original ones from TPF, and also, rename them, adding a **TPF** before, so for instance, **Nemesis Output** would become **TPF Nemesis Output**, and so on.
+  We'll need to re-run the Nemesis patcher, because we're adding a Stagger Fix mod, so before anything, disable the original one from TPF, and also rename it adding a **TPF** before, **Nemesis Output** becomes **TPF Nemesis Output**.
   - [ ] **Nemesis Output**
-  - [ ] **AllGUD - Alternate Textures Patch**
-  - [ ] **AllGUD - Weapon Meshes**
-  - [ ] **AllGUD - Skeleton Meshes**  
 
   ### 5.2 - Install Mods
   Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical as TPF, so leave them UNTOUCHED.

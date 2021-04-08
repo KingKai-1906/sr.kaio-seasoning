@@ -66,8 +66,6 @@
   ### INTERFACE    
   - #### [A Matter of Time - Sr. Kaio Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45785) - Author: *Sr. Kaio*  
     **Download:** Main Files > Sr. Kaio Preset - 1.0
-  - #### [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386) - Author: *Koveich*  
-    **Download:** Main Files > Sovngarde - A Nordic Font Light V8.9 - 8.9
   - #### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) - Author: *ciathyza*  
     **Download:** Main Files > Alternate Conversation Camera Plus - 2.4.6  
     After Installing, right click on mod and choose `Open in Explorer`, then navigate `SKSE > Plugins`, open

@@ -95,11 +95,6 @@
   - #### [FiraCode for Console UI](https://www.nexusmods.com/skyrimspecialedition/mods/12387) - Author: *Hellstorm102*  
     **Download:** Main Files > Fira Code for Skyrim SE - A
 
-  ### LIGHTING  
-  - #### [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483) - Author: *True Draconis - LonelyKitsuune*  
-    **Download:** Main Files > Dynamic Volumetric Lighting and Sun Shadows - 1.0.2  
-    **Download:** Optional Files > DVLaSS Skyrim Underside - 1.0.2
-
   ### ARCHITECTURE
   - #### [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481) - Author: *WiZkiD*
     **Download:** Main Files > WiZkiD Signs - 2.3

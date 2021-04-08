@@ -45,7 +45,7 @@
     Those models are uncompatible with the **WiZkiD Signs** that we're going to install.
     
   ### VALUABLE ITEMS
-  - [ ] **Septims HD**  
+  - [ ] **Septim HD**  
     We're installing a texture I personally like more.
 
   ### ASSORTED PLUGINS

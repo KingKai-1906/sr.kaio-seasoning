@@ -73,6 +73,8 @@
     **Download:** Main Files > NPC Name Tweaks - 1.02
   - #### [Solitude Catacombs Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/46699) - Author: *AndrealphusVIII*  
     **Download:** Main Files > Andrealphus' Tweaks - Solitude Catacombs - 1.0
+  - #### [No Force for Illusion Spells](https://www.nexusmods.com/skyrimspecialedition/mods/38700) - Author: *WankingSkeever*  
+    **Download:** Main Files > No Force for Illusion Spells - 0.1
  
   ### INTERFACE  
   - #### [A Matter of Time - Sr. Kaio Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45785) - Author: *Sr. Kaio*  

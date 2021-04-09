@@ -116,6 +116,10 @@
   - #### [FiraCode for Console UI](https://www.nexusmods.com/skyrimspecialedition/mods/12387) - Author: *Hellstorm102*  
     **Download:** Main Files > Fira Code for Skyrim SE - A
 
+  ### VISUAL FX
+  - #### [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456) - Author: *Deserter X*
+    **Download:** Main Files > FleshFX - 1.1
+  
   ### ARCHITECTURE
   - #### [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481) - Author: *WiZkiD*
     **Download:** Main Files > WiZkiD Signs - 2.3

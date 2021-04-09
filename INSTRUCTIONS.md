@@ -154,6 +154,8 @@
   ### BALANCING
   - #### [Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini)](https://www.nexusmods.com/skyrimspecialedition/mods/37607) - Author: *KaptainCnucklz*  
     **Download:** Main Files > Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition) - 1.0.1
+  - #### [Slip off Slopes](https://www.nexusmods.com/skyrimspecialedition/mods/45886) - Author: *wankingSkeever*  
+    **Download:** Main Files > Slip off Slopes - rag doll damage depends on difficulty - 0.4
   
   ### NEW CONTENT
   - #### [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) - Author: *TheRegisteredOne - ws - wankingSkeever*  

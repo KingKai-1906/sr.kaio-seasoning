@@ -194,7 +194,7 @@
     - Page 2
       - Leave all UNCKECKED
 
-  ### FINAL PATCH
+  ### FINAL PATCHES
   - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*
     **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.4.2
 

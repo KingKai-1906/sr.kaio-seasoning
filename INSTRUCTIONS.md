@@ -217,9 +217,6 @@
   - ### **Extended UI**  
     **_Activate:_** Show attribute modifiers  
     **_Activate:_** Show skill modifiers
-  - ### **GIST Soul Trap**  
-    **_Activate:_** Leveling > Enable Leveling System  
-    **_Set:_** Leveling > Skill to ENCHANTING
   - ### **Immersive HUD**  
     **_Activate:_** Options > Enable fast fade of magicka  
     **_Activate:_** Options > Enable fast fade of health  

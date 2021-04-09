@@ -71,6 +71,8 @@
   ## FIXES
   - #### [Freed Prisoner Uses Items](https://www.nexusmods.com/skyrimspecialedition/mods/22152) - Author: *Parapets*  
     **Download:** Main Files > Freed Prisoner Uses Items - 1.0
+  - #### [Falkreath Bandit Bridge - dead bandits don't trigger trap](https://www.nexusmods.com/skyrimspecialedition/mods/38477) - Author: *wankingSkeever*  
+    **Download:** Main Files > Falkreath Bandit Bridge - dead bandits don't trigger trap - 0.1
     
   ### TWEAKS
   - #### [NPC Name Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/20451) - Author: *SF117*  

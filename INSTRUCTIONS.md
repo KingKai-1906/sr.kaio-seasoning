@@ -61,9 +61,14 @@
   ### 5.2 - Install Mods
   Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical as TPF, so leave them UNTOUCHED.
 
-  Every downloaded mod must be installed, activated and put under the corresponding separator.
+  Every downloaded mod must be installed, activated and put under the corresponding separator as the last ones, **UNLESS NOTED OTHERWISE**!
  
-  ### INTERFACE    
+  ### ESSENTIAL MODS  
+  - #### [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117) - Author: *wankingSkeever*  
+    **Download:** Main Files > Assorted mesh fixes - 0.15
+    **WARNING:** This mod should be placed DIRECTLY below **Unofficial Skyrim Special Edition Patch**, not at the end of separator, we don't want to overwrite **Skyrim Particle Patch for ENB**.
+ 
+  ### INTERFACE  
   - #### [A Matter of Time - Sr. Kaio Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45785) - Author: *Sr. Kaio*  
     **Download:** Main Files > Sr. Kaio Preset - 1.0
   - #### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) - Author: *ciathyza*  

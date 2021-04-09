@@ -120,6 +120,15 @@
   ### DUNGEONS
   - #### [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553) - Author: *cunny1975*
     **Download:** Main Files > Improved Dwemer Glass - 1.1
+    
+  ### CLUTTER
+  - #### [Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637) - Author: *Rallyeator*
+    **Download:** Main Files > Rally's Civil War Document Tubes - 1.2
+    FOMOD Instructions:  
+    - Page 1
+      - Lore Version
+    - Page 2
+      - Gimme that!
 
   ### VALUABLE ITEMS
   - #### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545) - Author: *WiZkiD*

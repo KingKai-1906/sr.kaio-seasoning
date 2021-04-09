@@ -125,6 +125,17 @@
     - Page 2
       - Leave all UNCKECKED
   
+  ### MISC STRUCTURES
+  - #### [My Road Signs are Beautiful - Multilingual HD Retexture - SE](https://www.nexusmods.com/skyrimspecialedition/mods/46564) - Author: *Chiinami*
+    **Download:** Main Files > 01 My Road Signs are Beautiful - English Version - SE - 1.2EN
+    FOMOD Instructions:  
+    - Page 1
+      - Weathered version - 2K-1K
+      - None
+      - None
+    - Page 2
+      - Click Install :P
+  
   ### DUNGEONS
   - #### [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553) - Author: *cunny1975*
     **Download:** Main Files > Improved Dwemer Glass - 1.1

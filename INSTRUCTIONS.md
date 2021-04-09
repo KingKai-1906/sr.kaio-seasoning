@@ -120,6 +120,8 @@
   ### VALUABLE ITEMS
   - #### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545) - Author: *WiZkiD*
     **Download:** Main Files > Ancient Imperial Septims - Classic Gold - 1.2
+  - #### [More Vanilla Rings](https://www.nexusmods.com/skyrimspecialedition/mods/47198) - Author: *herumorgul*
+    **Download:** Optional Files > Includes Leveled Lists - 1.0
 
   ### GAMEPLAY OVERHAULS
   - #### [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) - Author: *Enai Siaion*  

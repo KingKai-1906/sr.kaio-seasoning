@@ -67,6 +67,10 @@
   - #### [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117) - Author: *wankingSkeever*  
     **Download:** Main Files > Assorted mesh fixes - 0.15  
     **WARNING:** This mod should be placed DIRECTLY below **Unofficial Skyrim Special Edition Patch**, not at the end of separator, we don't want to overwrite **Skyrim Particle Patch for ENB**.
+    
+  ### TWEAKS
+  - #### [NPC Name Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/20451) - Author: *wankingSkeever*  
+    **Download:** Main Files > NPC Name Tweaks - 1.02  
  
   ### INTERFACE  
   - #### [A Matter of Time - Sr. Kaio Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45785) - Author: *Sr. Kaio*  

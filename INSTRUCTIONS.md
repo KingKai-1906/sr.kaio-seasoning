@@ -70,7 +70,9 @@
     
   ### TWEAKS
   - #### [NPC Name Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/20451) - Author: *SF117*  
-    **Download:** Main Files > NPC Name Tweaks - 1.02  
+    **Download:** Main Files > NPC Name Tweaks - 1.02
+  - #### [Solitude Catacombs Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/46699) - Author: *AndrealphusVIII*  
+    **Download:** Main Files > Andrealphus' Tweaks - Solitude Catacombs - 1.0
  
   ### INTERFACE  
   - #### [A Matter of Time - Sr. Kaio Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45785) - Author: *Sr. Kaio*  

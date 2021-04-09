@@ -204,7 +204,6 @@
   - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/skyrim-se/finalisation/nemesis/) page, and redo all steps **BUT**
     with an additional detail: before hitting `Update engine` on Nemesis, you need to check the `Maxsu Stagger Direction Fix` checkbox.
     It is the 7th entry on the list, with priority 6, just check it.
-  - Go to TPF's [All Geared Up Derivative](https://thephoenixflavour.com/skyrim-se/finalisation/allgud/) page, and redo all steps.
  
 ## 7 - MCM Configuration
   - Go to [TPF Mod Configuration page](https://thephoenixflavour.com/skyrim-se/mod-configuration/), and follow all the steps.

@@ -73,6 +73,8 @@
     **Download:** Main Files > Freed Prisoner Uses Items - 1.0
   - #### [Falkreath Bandit Bridge - dead bandits don't trigger trap](https://www.nexusmods.com/skyrimspecialedition/mods/38477) - Author: *wankingSkeever*  
     **Download:** Main Files > Falkreath Bandit Bridge - dead bandits don't trigger trap - 0.1
+  - #### [No More Random Guild Thieves](https://www.nexusmods.com/skyrimspecialedition/mods/21570) - Author: *PxR - saqk*  
+    **Download:** Main Files > No More Random Guild Thieves - 1.0    
     
   ### TWEAKS
   - #### [NPC Name Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/20451) - Author: *SF117*  

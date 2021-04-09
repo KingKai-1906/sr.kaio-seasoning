@@ -65,7 +65,7 @@
  
   ### ESSENTIAL MODS  
   - #### [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117) - Author: *wankingSkeever*  
-    **Download:** Main Files > Assorted mesh fixes - 0.15
+    **Download:** Main Files > Assorted mesh fixes - 0.15  
     **WARNING:** This mod should be placed DIRECTLY below **Unofficial Skyrim Special Edition Patch**, not at the end of separator, we don't want to overwrite **Skyrim Particle Patch for ENB**.
  
   ### INTERFACE  

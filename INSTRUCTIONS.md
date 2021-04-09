@@ -129,9 +129,13 @@
     **Download:** Main Files > Triumvirate 1.7.0 - 1.7.0  
     **Download:** Optional Files > Triumvirate - Adamant Compatibility Patch - 1.7.0  
     **Download:** Optional Files > Triumvirate - Mysticism Compatibility Patch - 1.6.0
+    
+  ### BALANCING
+  - #### [Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini)](https://www.nexusmods.com/skyrimspecialedition/mods/37607) - Author: *KaptainCnucklz*  
+    **Download:** Main Files > Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition) - 1.0.1
   
   ### NEW CONTENT
-  - #### [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) - Author: *TheRegisteredOne - ws - wankingSkeever *  
+  - #### [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) - Author: *TheRegisteredOne - ws - wankingSkeever*  
     **Download:** Main Files > Penitus Oculatus - 0.13.1
 
   ### MISCELLANEOUS  

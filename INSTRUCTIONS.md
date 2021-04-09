@@ -111,6 +111,8 @@
       - Yes
     - Page 5
       - Nothing (an Invisible Icon)
+  - #### [Extended UI for CHADD UPL](https://www.nexusmods.com/skyrimspecialedition/mods/44643) - Author: *Cheshyr*  
+    **Download:** Main Files > Extended UI for Skyrim Uncapper Adamant Arena - 1.0.2
   - #### [Main Menu Wallpaper](https://www.nexusmods.com/skyrimspecialedition/mods/1178) - Author: *Hellstorm102*  
     **Download:** Optional Files > Main Menu Wallpaper - Book Cover - 1.0
   - #### [FiraCode for Console UI](https://www.nexusmods.com/skyrimspecialedition/mods/12387) - Author: *Hellstorm102*  

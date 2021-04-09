@@ -116,6 +116,10 @@
       - WiZkiD Signs for Lanterns Of Skyrim II users
     - Page 2
       - Leave all UNCKECKED
+  
+  ### DUNGEONS
+  - #### [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553) - Author: *cunny1975*
+    **Download:** Main Files > Improved Dwemer Glass - 1.1
 
   ### VALUABLE ITEMS
   - #### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545) - Author: *WiZkiD*

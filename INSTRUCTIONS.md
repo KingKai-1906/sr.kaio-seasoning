@@ -127,6 +127,10 @@
     **Download:** Main Files > Triumvirate 1.7.0 - 1.7.0  
     **Download:** Optional Files > Triumvirate - Adamant Compatibility Patch - 1.7.0  
     **Download:** Optional Files > Triumvirate - Mysticism Compatibility Patch - 1.6.0
+  
+  ### NEW CONTENT
+  - #### [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) - Author: *TheRegisteredOne - ws - wankingSkeever *  
+    **Download:** Main Files > Penitus Oculatus - 0.13.1
 
   ### MISCELLANEOUS  
   - #### [Pick up books simple - With weightless books option](https://www.nexusmods.com/skyrimspecialedition/mods/2453) - Author: *Alaebasta*  

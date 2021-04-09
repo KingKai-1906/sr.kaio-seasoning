@@ -68,6 +68,10 @@
     **Download:** Main Files > Assorted mesh fixes - 0.15  
     **WARNING:** This mod should be placed DIRECTLY below **Unofficial Skyrim Special Edition Patch**, not at the end of separator, we don't want to overwrite **Skyrim Particle Patch for ENB**.
     
+  ## FIXES
+  - #### [Freed Prisoner Uses Items](https://www.nexusmods.com/skyrimspecialedition/mods/22152) - Author: *Parapets*  
+    **Download:** Main Files > Freed Prisoner Uses Items - 1.0
+    
   ### TWEAKS
   - #### [NPC Name Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/20451) - Author: *SF117*  
     **Download:** Main Files > NPC Name Tweaks - 1.02

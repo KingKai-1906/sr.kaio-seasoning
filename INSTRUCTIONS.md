@@ -139,6 +139,9 @@
   ### ASSORTED PLUGINS
   - #### [Stagger Direction Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/43339) - Author: *Maxsu*
     **Download:** Main Files > Stagger Direction Fix-SSE V2.02a - V2.02a
+  - #### [Wash That Blood Off](https://www.nexusmods.com/skyrimspecialedition/mods/27325) - Author: *powerofthree*
+    **Download:** Main Files > Wash That Blood Off - SSE 1.5.97 - 1.2 - 1.2
+    
 
   ### SKELETON & ANIMATIONS
   - #### [Supreme Dwemer Spheres](https://www.nexusmods.com/skyrimspecialedition/mods/35769) - Author: *Rougeshot*

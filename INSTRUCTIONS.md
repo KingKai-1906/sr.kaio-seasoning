@@ -72,7 +72,7 @@
     Although the idea of the mod is nice, it has tw issues: it doesn't fits well with my menu replacer and it's not properly centralized, so we're going to keep the vanilla right-side main menu.
   - [ ] **QuickLootRE**
   - [ ] **No Lockpick Activate (SKSE) - Updated**
-  - [ ] **QuickLoot Retexture**
+  - [ ] **QuickLoot Retexture**  
     I personally don't like QuickLoot, so I'm disabling it
     
     If you followed TPF-X 100% (as you SHOULD), there should be a last mod on this spearator, a main font replacer that you've chose between Sovngarde and Fertigo. My Conflict Resolution Patch assumes you're using Sovngarde Light. IF you use other main font, you'll need to properly edit the `fontconfig.txt` inside it to match your font of choice. If you're using Sovngarde Light, you're covered :)

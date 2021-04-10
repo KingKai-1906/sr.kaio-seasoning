@@ -1,5 +1,72 @@
 # Sr. Kaio Seasoning - Changelog
 
+## Release 4.5.1
+> 2021/04/10
+
+Update to match TPF 4.5.1 release and to revamp a little bit!
+
+I'm now using the brand new TPF-X Addon, also by Phoenix as base for my seasoning, so be sure to install TPF AND TPF-X before venturing into my seasoning now :)
+
+This update is not save-safe
+
+#### Mod List - Disable Mods
+- **INTERFACE** removed Immersive Lockpicking (removed from TPF)
+- **INTERFACE** removed Immersive Bookreading (removed from TPF)
+- **VALUABLE ITEMS** fixed a typo on Septim HD
+- **APPEARANCE** added Vanilla Body with UNP Textures
+- **APPEARANCE** added Cathedral Player and NPC Overhaul - Female Skin Textures
+- **APPEARANCE** added SkySight Skins
+- **APPEARANCE** added SkySight Skins - Shoe Fixes (Less Shine)
+- **APPEARANCE** added Males of Skyrim - High Poly Hands
+- **TPF-X INTERFACE** moved QuickLootRE from INTERFACE to here
+- **TPF-X INTERFACE** added No Lockpick Activate (SKSE) - Updated
+- **TPF-X INTERFACE** added QuickLoot Retexture
+- **TPF-X GAMEPLAY TWEAKS** added Blade and Bunt - Vanilla Difficulty Modifiers
+- **TPF-X GAMEPLAY TWEAKS** added Blade and Blunt - Timed Block Module
+- **TPF-X MISCELLANEOUS** added All No Tails
+- **PATCHER OUTPUT** added Facegen Output
+- **PATCHER OUTPUT** removed AllGUD outputs
+
+#### Mod List - Installation
+- **ESSENTIAL MODS** added Assorted mesh fixes
+- **FIXES** removed Bowlegged jump animation fix
+- **FIXES** added Freed Prisoner Uses Items
+- **FIXES** added Falkreath Bandit Bridge - dead bandits don't trigger trap
+- **FIXES** added No More Random Guild Thieves
+- **FIXES** added No More Random Guild Thieves
+- **TWEAKS** added NPC Name Tweaks
+- **TWEAKS** added Solitude Catacombs Tweak
+- **TWEAKS** added No Force for Illusion Spells
+- **INTERFACE** removed Sovngarde - A Nordic Font (it's on TPF-X now)
+- **INTERFACE** added Extended UI for CHADD UPL
+- **WEATHER** removed Improved Rain and Fog for Cathedral Weathers
+- **LIGHTING** removed Dynamic Volumetric Lighting and Sun Shadows (it's on TPF-X now)
+- **VISUAL FX** added FleshFX
+- **MISC STRUCTURES** added My Road Signs are Beautiful - Multilingual HD Retexture - SE
+- **DUNGEONS** added Improved Dwemer Glass
+- **CLUTTER** added Rally's Civil War Document Tubes
+- **VALUABLE ITEMS** added More Vanilla Rings
+- **APPEARANCE** added Nordic Faces - Immersive Characters Overhaul
+- **APPEARANCE** added Disparity and Diversity - Diversified Individual Race Textures
+- **NON PLAYER CHARACTERS** removed Civil War Deserters (it's on TPF now)
+- **BALANCING** added Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini)
+- **BALANCING** added Slip off Slopes
+- **NEW CONTENT** added Penitus Oculatus
+- **MISCELLANEOUS** updated Reading Is Good (1.0.3 -> 1.0.4)
+- **MISCELLANEOUS** removed Dragon Wall Wisdom - Readable Dragon Walls (it's on TPF now)
+- **ASSORTED PLUGINS** added Wash That Blood Off
+- **SKELETON & ANIMATIONS** added Racial Body Morphs SE - Diverse body types and height by Race and Gender
+- **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.4.2 -> 4.5.1)
+
+#### Finishing Up
+- Updated instructions to download `loadorder.txt` from https://loadorderlibrary.com/
+- Added Instructions to do generate Facegens
+- Removed instructions to run AllGUD scripts
+
+#### MCM Configuration
+- Removed GIST Soul Trap instructions
+
+
 ## Release 4.4.2
 > 2021/03/07
 
@@ -49,6 +116,7 @@ The update is save-safe, just **BE SURE** to save outside the following location
 #### Finishing Up
 - Removed instructions for SSE Engine Fixes, now they are included on TPF
 
+
 ## Release 4.4
 > 2021/03/06
 
@@ -76,6 +144,7 @@ The update is save-safe, just **BE SURE** to save outside the following location
 
 #### Finishing Up
 - Updated instructions for Nemesis Behavior Engine, to match the new requirement for Stagger Direction Fix
+
 
 ## Release 4.3
 >2020/02/22

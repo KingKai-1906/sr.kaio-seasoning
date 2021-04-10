@@ -194,6 +194,21 @@
     **Download:** Main Files > Ancient Imperial Septims - Classic Gold - 1.2
   - #### [More Vanilla Rings](https://www.nexusmods.com/skyrimspecialedition/mods/47198) - Author: *herumorgul*
     **Download:** Optional Files > Includes Leveled Lists - 1.0
+  
+  ### APPEARANCE
+  - #### [Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658) - Author: *The Community and deletepch*  
+    Install each of the files as separate mods  
+    **Download:** Optional Files > Nordic Faces - Textures and Body Meshes Only - 2.8  
+    **Download:** Optional Files > Plugin for FaceGen Setup - 2.0  
+
+    **WARNING:** These 2 mods need to be positioned right below the disabled **Males of Skyrim - High Poly Hands** on left pane, not at the end.
+
+  - #### [Disparity and Diversity - Diversified Individual Race Textures](https://www.nexusmods.com/skyrimspecialedition/mods/43779) - Author: *HeartAttackMan*  
+    Install each of the files as separate mods  
+    **Download:** Optional Files > Disparity and Diversity - DIRT - ESP - 2.0  
+    **Download:** Optional Files > Head Textures - 2K - 2.0  
+    **Download:** Optional Files > Males of Skyrim or Nordic Faces - Default - 2K - 2.1  
+    **Download:** Optional Files > UNP - Default - 2K - 2.0  
 
   ### GAMEPLAY OVERHAULS
   - #### [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) - Author: *Enai Siaion*  

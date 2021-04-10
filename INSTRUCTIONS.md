@@ -318,6 +318,13 @@
 ## 6 - Finishing Up  
   - Download and apply the updated [loadorder.txt](https://raw.githubusercontent.com/caiobraz/sr.kaio-seasoning/main/loadorder.txt) (right-click > `Save link as...`),
     the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
+  - Go to TPF's [Facegen](https://thephoenixflavour.com/tpf/finalisation/facegen/) page, and start following the steps until you arrive at **Regenerating Facegen** part.  
+  Use the following setup:  
+  ![image](https://user-images.githubusercontent.com/6069263/114256096-229c3380-998e-11eb-8339-1c3e5a006312.png)  
+  NPCsWithFaces.esp being the ACTIVE FILE  
+  Then continue following Phoenix's page, when you have to create the mod from Overwrite name it **Facegen Output DD**  
+  When you finish this step **DISABLE** the **NPCs With Faces** and **Plugin for FaceGen Setup** mods on left pane.
+
   - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/skyrim-se/finalisation/nemesis/) page, and redo all steps **BUT**
     with an additional detail: before hitting `Update engine` on Nemesis, you need to check the `Maxsu Stagger Direction Fix` checkbox.
     It is the 7th entry on the list, with priority 6, just check it.

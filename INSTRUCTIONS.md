@@ -47,6 +47,14 @@
   ### VALUABLE ITEMS
   - [ ] **Septim HD**  
     We're installing a texture I personally like more.
+    
+  ### APPEARANCE
+  - [ ] **Vanilla Body with UNP Textures**  
+  - [ ] **Cathedral Player and NPC Overhaul - Female Skin Textures**  
+  - [ ] **SkySight Skins**  
+  - [ ] **SkySight Skins - Shoe Fixes (Less Shine)**  
+  - [ ] **Males of Skyrim - High Poly Hands**  
+    We're installing new body replacers and textures that I like much more, so these mods should be disabled.
 
   ### ASSORTED PLUGINS
   - [ ] **No Attack Messages**  

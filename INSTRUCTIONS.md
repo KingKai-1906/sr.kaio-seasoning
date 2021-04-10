@@ -131,7 +131,7 @@
   - #### [Pastel SkyUI Markers](https://www.nexusmods.com/skyrimspecialedition/mods/13604) - Author: *iTitoMix*  
     **Download:** Main Files > Pastel SkyUI SkyHUD - 5.2.PASTEL
   - #### [Undiscovered Means Unknown](https://www.nexusmods.com/skyrimspecialedition/mods/9762) - Author: *Brin_aSair*  
-    **Download:** Main Files > Undiscovered Means Unknown - Compass and Map Markers - 2.11 
+    **Download:** Main Files > Undiscovered Means Unknown - Compass and Map Markers - 2.11  
     FOMOD Instructions:  
     - Page 1
       - Only the Compass
@@ -158,7 +158,7 @@
   
   ### ARCHITECTURE
   - #### [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481) - Author: *WiZkiD*
-    **Download:** Main Files > WiZkiD Signs - 2.3
+    **Download:** Main Files > WiZkiD Signs - 2.3  
     FOMOD Instructions:  
     - Page 1
       - WiZkiD Signs for Lanterns Of Skyrim II users
@@ -167,7 +167,7 @@
   
   ### MISC STRUCTURES
   - #### [My Road Signs are Beautiful - Multilingual HD Retexture - SE](https://www.nexusmods.com/skyrimspecialedition/mods/46564) - Author: *Chiinami*
-    **Download:** Main Files > 01 My Road Signs are Beautiful - English Version - SE - 1.2EN
+    **Download:** Main Files > 01 My Road Signs are Beautiful - English Version - SE - 1.2EN  
     FOMOD Instructions:  
     - Page 1
       - Weathered version - 2K-1K
@@ -182,7 +182,7 @@
     
   ### CLUTTER
   - #### [Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637) - Author: *Rallyeator*
-    **Download:** Main Files > Rally's Civil War Document Tubes - 1.2
+    **Download:** Main Files > Rally's Civil War Document Tubes - 1.2  
     FOMOD Instructions:  
     - Page 1
       - Lore Version
@@ -287,7 +287,7 @@
   - #### [Bristleback Boars](https://www.nexusmods.com/skyrimspecialedition/mods/22578) - Author: *Rougeshot*
     **Download:** Main Files > Bristleback Boars - 1.0
   - #### [Ultimate Combat and Creatures Behaviour compatibility for Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/45966) - Author: *NickNak*
-    **Download:** Main Files > Ultimate Combat and Creature Behaviour's Nemesis Compatibility - 1.12
+    **Download:** Main Files > Ultimate Combat and Creature Behaviour's Nemesis Compatibility - 1.12  
     FOMOD Instructions:  
     - Page 1
       - Leave, justo go next

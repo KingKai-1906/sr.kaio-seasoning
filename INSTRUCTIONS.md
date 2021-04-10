@@ -316,11 +316,10 @@
     **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.5.1
 
 ## 6 - Finishing Up  
-  - Download and apply the updated [loadorder.txt](https://raw.githubusercontent.com/caiobraz/sr.kaio-seasoning/main/loadorder.txt) (right-click > `Save link as...`),
-    the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
+  - Download the updated [loadorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply it the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
   - Go to TPF's [Facegen](https://thephoenixflavour.com/tpf/finalisation/facegen/) page, and start following the steps until you arrive at **Regenerating Facegen** part.  
-
   Use the following setup:  
+
   ![image](https://user-images.githubusercontent.com/6069263/114256096-229c3380-998e-11eb-8339-1c3e5a006312.png)  
   NPCsWithFaces.esp being the ACTIVE FILE  
 

@@ -316,7 +316,7 @@
     **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.5.1
 
 ## 6 - Finishing Up  
-  - Download the updated [loadorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply it the same way [Phoenix does on her guide](https://thephoenixflavour.com/skyrim-se/finalisation/wrapping-up/#load-order-txt)
+  - Download the updated [loadorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply it the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
   - Go to TPF's [Facegen](https://thephoenixflavour.com/tpf/finalisation/facegen/) page, and start following the steps until you arrive at **Regenerating Facegen** part.  
   Use the following setup:  
 
@@ -327,7 +327,7 @@
 
   When you finish this step **DISABLE** the **NPCs With Faces** and **Plugin for FaceGen Setup** mods on left pane.
 
-  - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/skyrim-se/finalisation/nemesis/) page, and redo all steps **BUT**
+  - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/tpf/finalisation/nemesis/) page, and redo all steps **BUT**
     with an additional detail: before hitting `Update engine` on Nemesis, you need to check the `Maxsu Stagger Direction Fix` checkbox.
     It is the 7th entry on the list, with priority 6, just check it.
  

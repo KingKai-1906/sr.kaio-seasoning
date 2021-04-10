@@ -79,16 +79,16 @@
     
   ### TPF-X - GAMEPLAY TWEAKS
   - [ ] **Blade and Bunt - Vanilla Difficulty Modifiers**
-  - [ ] **Blade and Blunt - Timed Block Module**
+  - [ ] **Blade and Blunt - Timed Block Module**  
     Those two mods make the game a lot more easier. In my humble opinion, TPF found the sweet-spot reagrding balance on difficulty and I intend to leave it that way.
   
   ### TPF-X - MISCELLANEOUS
-  - [ ] **All No Tails**
+  - [ ] **All No Tails**  
     No animals were harmed on the making of this guide :P  
 
   ### PATCHER OUTPUT  
   We'll need to re-run the Nemesis patcher, because we're adding a Stagger Fix mod, so before anything, disable the original one from TPF, and also rename it adding a **TPF** before, **Nemesis Output** becomes **TPF Nemesis Output**.  
-  Also, we're going to regenerate the facegens, so disable its output also.
+  Also, we're going to regenerate the facegens, so disable its output also.  
   - [ ] **Facegen Output**
   - [ ] **Nemesis Output**
 

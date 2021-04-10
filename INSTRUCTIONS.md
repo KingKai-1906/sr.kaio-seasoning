@@ -13,24 +13,29 @@
 
   Apart from that, no other compatibility issues reagarding the original TPF.
 
+  With the release of TPF 4.5, Phoenix added her own addon called **The Phoenix Flavour - Extended** or shortly, **TPF-X**. I'm basing my seasoning on TPF-X from now on, since it's easier and more convenient for you users :)
+
 ## 3 - Prerequisites
   - Skyrim Special Edition with the 3 DLCs
-  - **100% UNTOUCHED** version of **The Phoenix Flavour 4.4.2**, installed either manually or via Wabbajack  
+  - **100% UNTOUCHED** version of **The Phoenix Flavour 4.5.1**, installed either manually or via Wabbajack  
+  - **100% UNTOUCHED** version of **TPF-X Addon**, installed manually.
 
 ## 4 - Setup
   - **Profile Creation:**  
     - On MO2, click on the **Profiles** dropdown menu and select `<Manage...>`.  
-    - At the new window, select `The Phoenix Flavour` profile and click `Copy` and name it `The Phoenix Flavour - Sr. Kaio Seasoning`, and then click `Close`.  
+    - At the new window, select `The Phoenix Flavour - Extended` profile and click `Copy` and name it `Sr. Kaio Seasoning`, and then click `Close`.  
     - Back at MO2 main window, click on the dropdown menu again, and select the newly created profile.
     
-  >**WARNING: LEAVE THE ORIGINAL `The Phoenix Flavour` PROFILE UNTOUCHED!**  
+  >**WARNING: LEAVE THE ORIGINAL `The Phoenix Flavour` and `The Phoenix Flavour - Extended` PROFILES UNTOUCHED!**  
   
-  The instructions here are meant to keep the original profile intact and I'm not responsible if you mess up your original TPF installation.
+  The instructions here are meant to keep the original profiles intact and I'm not responsible if you mess up your original TPF or TPF-X installation.
 
 ## 5 - Mod List
 
   ### 5.1 - Disable Mods  
-  Firstly, we're going to **disable** some mods that came with TPF. Don't delete them, because it'd break the original TPF profile, just disable them by clicking the checkbox at the left side of their names, and making sure they don't have a checkmark anymore.
+  Firstly, we're going to **disable** some mods that came with TPF and TPF-X. Don't delete them, because it'd break the original TPF and TPF-X profiles, just disable them by clicking the checkbox at the left side of their names, and making sure they don't have a checkmark anymore.
+
+  Since we're based on TPF-X now, some mods are already disabled, just keep them disabled, we're not re-enabling any mods that TPF-X disabled.
 
   ### INTERFACE
   - [ ] **A Matter of Time - Phoenix Preset**  
@@ -61,13 +66,34 @@
     This one will be disabled by the same idea as the Immersive Lockpicking/Bookreading, it removes informational elements from the HUD.
   - [ ] **Disable Follower Collision**  
     Although it's nice to don't have your way blocked by your followers, unfortunately it adds a lot of clipping issues and bad follower positioning, so, this one is going out!
+    
+  ### TPF-X - INTERFACE
+  - [ ] **Main Menu Design Replacer - Multilanguage - 60 FPS**  
+    Although the idea of the mod is nice, it has tw issues: it doesn't fits well with my menu replacer and it's not properly centralized, so we're going to keep the vanilla right-side main menu.
+  - [ ] **QuickLootRE**
+  - [ ] **No Lockpick Activate (SKSE) - Updated**
+  - [ ] **QuickLoot Retexture**
+    I personally don't like QuickLoot, so I'm disabling it
+    
+    If you followed TPF-X 100% (as you SHOULD), there should be a last mod on this spearator, a main font replacer that you've chose between Sovngarde and Fertigo. My Conflict Resolution Patch assumes you're using Sovngarde Light. IF you use other main font, you'll need to properly edit the `fontconfig.txt` inside it to match your font of choice. If you're using Sovngarde Light, you're covered :)
+    
+  ### TPF-X - GAMEPLAY TWEAKS
+  - [ ] **Blade and Bunt - Vanilla Difficulty Modifiers**
+  - [ ] **Blade and Blunt - Timed Block Module**
+    Those two mods make the game a lot more easier. In my humble opinion, TPF found the sweet-spot reagrding balance on difficulty and I intend to leave it that way.
+  
+  ### TPF-X - MISCELLANEOUS
+  - [ ] **All No Tails**
+    No animals were harmed on the making of this guide :P  
 
   ### PATCHER OUTPUT  
-  We'll need to re-run the Nemesis patcher, because we're adding a Stagger Fix mod, so before anything, disable the original one from TPF, and also rename it adding a **TPF** before, **Nemesis Output** becomes **TPF Nemesis Output**.
+  We'll need to re-run the Nemesis patcher, because we're adding a Stagger Fix mod, so before anything, disable the original one from TPF, and also rename it adding a **TPF** before, **Nemesis Output** becomes **TPF Nemesis Output**.  
+  Also, we're going to regenerate the facegens, so disable its output also.
+  - [ ] **Facegen Output**
   - [ ] **Nemesis Output**
 
   ### 5.2 - Install Mods
-  Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical as TPF, so leave them UNTOUCHED.
+  Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical as TPF-X, so leave them UNTOUCHED.
 
   Every downloaded mod must be installed, activated and put under the corresponding separator as the last ones, **UNLESS NOTED OTHERWISE**!
  

@@ -49,10 +49,6 @@
   - [ ] **Skyrim 3D Signs**  
     Those models are uncompatible with the **WiZkiD Signs** that we're going to install.
     
-  ### VALUABLE ITEMS
-  - [ ] **Septim HD**  
-    We're installing a texture I personally like more.
-    
   ### APPEARANCE
   - [ ] **Vanilla Body with UNP Textures**  
   - [ ] **Cathedral Player and NPC Overhaul - Female Skin Textures**  
@@ -190,8 +186,6 @@
       - Gimme that!
 
   ### VALUABLE ITEMS
-  - #### [Ancient Imperial Septims](https://www.nexusmods.com/skyrimspecialedition/mods/37545) - Author: *WiZkiD*
-    **Download:** Main Files > Ancient Imperial Septims - Classic Gold - 1.2
   - #### [More Vanilla Rings](https://www.nexusmods.com/skyrimspecialedition/mods/47198) - Author: *herumorgul*
     **Download:** Optional Files > Includes Leveled Lists - 1.0
   

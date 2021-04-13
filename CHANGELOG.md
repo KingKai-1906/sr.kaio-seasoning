@@ -1,5 +1,18 @@
 # Sr. Kaio Seasoning - Changelog
 
+## Release 4.5.2
+> 2021/04/13
+
+Just a little maintenance update to keep on pace with TPF 4.5.2
+
+Just apply [TPF 4.5.2 changelog update](https://thephoenixflavour.com/tpf/appendix/changelog/#release-452), and you're good to go, the update here is just to refelct the latest changes on main guide.
+
+#### Mod List - Disable Mods
+- **VALUABLE ITEMS** removed Septims HD (removed from TPF 4.5.2)
+
+#### Mod List - Installation
+- **VALUABLE ITEMS** removed Ancient Imperial Septims (added on TPF 4.5.2)
+
 ## Release 4.5.1
 > 2021/04/10
 

@@ -322,8 +322,11 @@
   When you finish this step **DISABLE** the **NPCs With Faces** and **Plugin for FaceGen Setup** mods on left pane.
 
   - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/tpf/finalisation/nemesis/) page, and redo all steps **BUT**
-    with an additional detail: before hitting `Update engine` on Nemesis, you need to check the `Maxsu Stagger Direction Fix` checkbox.
-    It is the 7th entry on the list, with priority 6, just check it.
+    with an additional detail: before hitting `Update engine` on Nemesis, you need to check both `Jump Behavior Overhaul` and `Maxsu Stagger Direction Fix` checkboxes, check image below:  
+    If the generation fails, update engine again and try again, should do it.
+    
+    ![image](https://user-images.githubusercontent.com/6069263/114639424-36a0a780-9ca4-11eb-8b21-f98104ae5f0d.png) 
+
  
 ## 7 - MCM Configuration
   - Go to [TPF Mod Configuration page](https://thephoenixflavour.com/skyrim-se/mod-configuration/), and follow all the steps.

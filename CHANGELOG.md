@@ -4,6 +4,7 @@
 > Last changed 2021/04/25
 
 #### Mod List - Installation
+- **ESSENTIAL MODS** updated Assorted mesh fixes (0.15 -> 0.16)
 - **MISC STRUCTURES** updated My Road Signs are Beautiful (1.2EN -> 1.3EN)
 
 

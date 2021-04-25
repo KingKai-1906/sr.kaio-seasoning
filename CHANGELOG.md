@@ -1,5 +1,12 @@
 # Sr. Kaio Seasoning - Changelog
 
+## DEV
+> Last changed 2021/04/25
+
+#### Mod List - Installation
+- **MISC STRUCTURES** updated My Road Signs are Beautiful (1.2EN -> 1.3EN)
+
+
 ## Release 4.5.2
 > 2021/04/13
 

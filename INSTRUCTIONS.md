@@ -85,11 +85,6 @@
   Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical as TPF-X, so leave them UNTOUCHED.
 
   Every downloaded mod must be installed, activated and put under the corresponding separator as the last ones, **UNLESS NOTED OTHERWISE**!
- 
-  ### ESSENTIAL MODS  
-  - #### [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117) - Author: *wankingSkeever*  
-    **Download:** Main Files > Assorted mesh fixes - 0.16  
-    **WARNING:** This mod should be placed DIRECTLY below **Unofficial Skyrim Special Edition Patch**, not at the end of separator, we don't want to overwrite **Skyrim Particle Patch for ENB**.
     
   ### FIXES
   - #### [Freed Prisoner Uses Items](https://www.nexusmods.com/skyrimspecialedition/mods/22152) - Author: *Parapets*  
@@ -145,15 +140,6 @@
   - #### [FleshFX](https://www.nexusmods.com/skyrimspecialedition/mods/27456) - Author: *Deserter X*
     **Download:** Main Files > FleshFX - 1.1
   
-  ### ARCHITECTURE
-  - #### [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481) - Author: *WiZkiD*
-    **Download:** Main Files > WiZkiD Signs - 2.3  
-    FOMOD Instructions:  
-    - Page 1
-      - WiZkiD Signs for Lanterns Of Skyrim II users
-    - Page 2
-      - Leave all UNCKECKED
-  
   ### MISC STRUCTURES
   - #### [My Road Signs are Beautiful - Multilingual HD Retexture - SE](https://www.nexusmods.com/skyrimspecialedition/mods/46564) - Author: *Chiinami*
     **Download:** Main Files > 01 My Road Signs are Beautiful - English Version - SE - 1.3EN  
@@ -166,11 +152,14 @@
       - None
       - None
       - (Point the Way) Engraved Texture - 2K-1K
-      - None    
-  
-  ### DUNGEONS
-  - #### [Improved Dwemer Glass](https://www.nexusmods.com/skyrimspecialedition/mods/44553) - Author: *cunny1975*
-    **Download:** Main Files > Improved Dwemer Glass - 1.1
+      - None
+  - #### [WiZkiD Signs](https://www.nexusmods.com/skyrimspecialedition/mods/30481) - Author: *WiZkiD*
+    **Download:** Main Files > WiZkiD Signs - 2.3  
+    FOMOD Instructions:  
+    - Page 1
+      - WiZkiD Signs for Lanterns Of Skyrim II users
+    - Page 2
+      - Leave all UNCKECKED          
     
   ### CLUTTER
   - #### [Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637) - Author: *Rallyeator*
@@ -199,33 +188,27 @@
     **Download:** Optional Files > Head Textures - 2K - 2.0  
     **Download:** Optional Files > Males of Skyrim or Nordic Faces - Default - 2K - 2.1  
     **Download:** Optional Files > UNP - Default - 2K - 2.0  
-
-  ### GAMEPLAY OVERHAULS
-  - #### [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) - Author: *Enai Siaion*  
-    Install each of the files as separate mods  
-    **Download:** Main Files > Triumvirate 1.7.0 - 1.7.0  
-    **Download:** Optional Files > Triumvirate - Adamant Compatibility Patch - 1.7.0  
-    **Download:** Optional Files > Triumvirate - Mysticism Compatibility Patch - 1.6.0
     
-  ### BALANCING
-  - #### [Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini)](https://www.nexusmods.com/skyrimspecialedition/mods/37607) - Author: *KaptainCnucklz*  
-    **Download:** Main Files > Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition) - 1.0.1
-  - #### [Slip off Slopes](https://www.nexusmods.com/skyrimspecialedition/mods/45886) - Author: *wankingSkeever*  
-    **Download:** Main Files > Slip off Slopes - rag doll damage depends on difficulty - 0.4
-  
   ### NEW CONTENT
   - #### [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) - Author: *TheRegisteredOne - ws - wankingSkeever*  
     **Download:** Main Files > Penitus Oculatus - 0.13.1
 
   ### MISCELLANEOUS  
+  - #### [Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini)](https://www.nexusmods.com/skyrimspecialedition/mods/37607) - Author: *KaptainCnucklz*  
+    **Download:** Main Files > Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition) - 1.0.1
+  - #### [Slip off Slopes](https://www.nexusmods.com/skyrimspecialedition/mods/45886) - Author: *wankingSkeever*  
+    **Download:** Main Files > Slip off Slopes - rag doll damage depends on difficulty - 0.4
   - #### [Pick up books simple - With weightless books option](https://www.nexusmods.com/skyrimspecialedition/mods/2453) - Author: *Alaebasta*  
     **Download:** Main Files > Pick up books simple .esp flagged as .esl - 2.0
   - #### [Reading is Good (SKSE)](https://www.nexusmods.com/skyrimspecialedition/mods/42026) - Author: *Parapets*  
     **Download:** Main Files > Reading Is Good - 1.0.4
   - #### [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091) - Author: *Imp of the Perverse - Threepkiller*  
     **Download:** Main Files > First Person Camera Height Fix - 1.2.2
-  - #### [Spell Amnesia](https://www.nexusmods.com/skyrimspecialedition/mods/4091) - Author: *Vox Sola*  
-    **Download:** Main Files > Spell Amnesia - 1.0
+  - #### [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Author: *Parapets*  
+    **Download:** Main Files > Forget Spell Amnesia - 1.1.1
+    FOMOD Instructions:  
+    - Page 1
+      - SkyUI
   - #### [A Guiding Light - Clairvoyance Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/35464) - Author: *Parapets*
     **Download:** Main Files > Guiding Wisp - 2.3.2
   - #### [HearthFires - Unique Display Rooms - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4770) - Author: *Jayer117 and EdmondNoir*

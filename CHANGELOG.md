@@ -9,8 +9,15 @@
 - **MISCELLANEOUS - TPF-X** removed All No Tails (not in TPF-X anymore)
 
 #### Mod List - Installation
-- **ESSENTIAL MODS** updated Assorted mesh fixes (0.15 -> 0.16)
+- **ESSENTIAL MODS** removed Assorted mesh fixes (included on base TPF)
 - **MISC STRUCTURES** updated My Road Signs are Beautiful (1.2EN -> 1.3EN)
+- **MISC STRUCTURES** moved WiZkiD Signs from ARCHITECTURE to here
+- **DUNGEONS** removed Improved Dwemer Glass (TPF now covers this one with Dwemer 4K)
+- **GAMEPLAY OVERHAULS** removed Triumvirate (I'll wait for Simon Magus to finish updating its suite, then maybe readding in the future)
+- **MISCELLANEOUS** moved Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini) here
+- **MISCELLANEOUS** moved Slip off Slopes here
+- **MISCELLANEOUS** removed Spell Amnesia
+- **MISCELLANEOUS** added Forget Spell
 
 
 ## Release 4.5.2

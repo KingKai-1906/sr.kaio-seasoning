@@ -40,8 +40,6 @@
   ### INTERFACE
   - [ ] **A Matter of Time - Phoenix Preset**  
     Will be replaced by a preset made by me, sorry Phoenix, mine is way way better :P
-  - [ ] **Roboto Font Replacer**  
-    The font itself is good, but doesn't fit Skyrim at all, I'd rather play with the vanilla font. But we'll be using Sovngarde Light as a replacer, that fits so much better in my opinion.
   - [ ] **DRELDYN's Original Main Menu Overhaul**  
     The menu itself is AWESOME, I just wanted to change it to something more like myself :)
 
@@ -67,20 +65,15 @@
   - [ ] **Main Menu Design Replacer - Multilanguage - 60 FPS**  
     Although the idea of the mod is nice, it has tw issues: it doesn't fits well with my menu replacer and it's not properly centralized, so we're going to keep the vanilla right-side main menu.
   - [ ] **QuickLootRE**
-  - [ ] **No Lockpick Activate (SKSE) - Updated**
   - [ ] **QuickLoot Retexture**  
     I personally don't like QuickLoot, so I'm disabling it
     
-    If you followed TPF-X 100% (as you SHOULD), there should be a last mod on this spearator, a main font replacer that you've chose between Sovngarde and Fertigo. My Conflict Resolution Patch assumes you're using Sovngarde Light. IF you use other main font, you'll need to properly edit the `fontconfig.txt` inside it to match your font of choice. If you're using Sovngarde Light, you're covered :)
+    If you followed TPF-X 100% (as you SHOULD), there should be a last mod on this spearator, a main font replacer that you've chose between Roboto and Fertigo. My Conflict Resolution Patch assumes you're using Sovngarde Light from base TPF. **IF** you use other main font, you'll need to properly edit the `fontconfig.txt` inside it to match your font of choice. If you're using Sovngarde Light, you're covered :)
     
   ### TPF-X - GAMEPLAY TWEAKS
   - [ ] **Blade and Bunt - Vanilla Difficulty Modifiers**
   - [ ] **Blade and Blunt - Timed Block Module**  
-    Those two mods make the game a lot more easier. In my humble opinion, TPF found the sweet-spot reagrding balance on difficulty and I intend to leave it that way.
-  
-  ### TPF-X - MISCELLANEOUS
-  - [ ] **All No Tails**  
-    No animals were harmed on the making of this guide :P  
+    Those two mods make the game a lot more easier. In my humble opinion, TPF found the sweet-spot reagrding balance on difficulty and I intend to keep it that way.
 
   ### PATCHER OUTPUT  
   We'll need to re-run the Nemesis patcher, because we're adding a Stagger Fix mod, so before anything, disable the original one from TPF, and also rename it adding a **TPF** before, **Nemesis Output** becomes **TPF Nemesis Output**.  

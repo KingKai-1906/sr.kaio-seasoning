@@ -1,7 +1,12 @@
 # Sr. Kaio Seasoning - Changelog
 
 ## DEV
-> Last changed 2021/04/25
+> Last changed 2021/07/03
+
+#### Mod List - Disable Mods
+- **INTERFACE** removed Roboto Font Replacer (no longer in TPF base)
+- **INTERFACE - TPF-X** removed No Lockpick Activate (SKSE) - Updated
+- **MISCELLANEOUS - TPF-X** removed All No Tails (not in TPF-X anymore)
 
 #### Mod List - Installation
 - **ESSENTIAL MODS** updated Assorted mesh fixes (0.15 -> 0.16)

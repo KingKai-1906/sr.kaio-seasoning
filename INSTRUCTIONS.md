@@ -17,7 +17,7 @@
 
 # 3 - Prerequisites
   - Skyrim Special Edition with the 3 DLCs
-  - **100% UNTOUCHED** version of **The Phoenix Flavour 4.5.1**, installed either manually or via Wabbajack  
+  - **100% UNTOUCHED** version of **The Phoenix Flavour 4.7.1**, installed either manually or via Wabbajack  
   - **100% UNTOUCHED** version of **TPF-X Addon**, installed manually.
 
 # 4 - Setup
@@ -191,7 +191,7 @@
     
   ### NEW CONTENT
   - #### [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) - Author: *TheRegisteredOne - ws - wankingSkeever*  
-    **Download:** Main Files > Penitus Oculatus - 0.13.1
+    **Download:** Main Files > Penitus Oculatus - 0.14
 
   ### MISCELLANEOUS  
   - #### [Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini)](https://www.nexusmods.com/skyrimspecialedition/mods/37607) - Author: *KaptainCnucklz*  
@@ -201,11 +201,11 @@
   - #### [Pick up books simple - With weightless books option](https://www.nexusmods.com/skyrimspecialedition/mods/2453) - Author: *Alaebasta*  
     **Download:** Main Files > Pick up books simple .esp flagged as .esl - 2.0
   - #### [Reading is Good (SKSE)](https://www.nexusmods.com/skyrimspecialedition/mods/42026) - Author: *Parapets*  
-    **Download:** Main Files > Reading Is Good - 1.0.4
+    **Download:** Main Files > Reading Is Good - 1.1.0
   - #### [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091) - Author: *Imp of the Perverse - Threepkiller*  
     **Download:** Main Files > First Person Camera Height Fix - 1.2.2
   - #### [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125) - Author: *Parapets*  
-    **Download:** Main Files > Forget Spell Amnesia - 1.1.1
+    **Download:** Main Files > Forget Spell Amnesia - 1.2.2
     FOMOD Instructions:  
     - Page 1
       - SkyUI

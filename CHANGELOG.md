@@ -14,8 +14,10 @@
 - **MISC STRUCTURES** moved WiZkiD Signs from ARCHITECTURE to here
 - **DUNGEONS** removed Improved Dwemer Glass (TPF now covers this one with Dwemer 4K)
 - **GAMEPLAY OVERHAULS** removed Triumvirate (I'll wait for Simon Magus to finish updating its suite, then maybe readding in the future)
+- **NEW CONTENT** updated Penitus Oculatus (0.13.1 -> 0.14)
 - **MISCELLANEOUS** moved Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini) here
 - **MISCELLANEOUS** moved Slip off Slopes here
+- **MISCELLANEOUS** updated Reading Is Good (1.0.4 -> 1.1.0)
 - **MISCELLANEOUS** removed Spell Amnesia
 - **MISCELLANEOUS** added Forget Spell
 

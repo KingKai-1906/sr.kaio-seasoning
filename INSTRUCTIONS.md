@@ -1,4 +1,4 @@
-## 1 - Introduction  
+# 1 - Introduction  
   My idea was just to put my personal touch within this truly majestic guide called The Phoenix Flavour. I don't intend to change the core *Vanilla+* approach beneath it, but just paint it with my own colors instead.
   
   Most changes were made on the INTERFACE section, since I'm a defender of the "functionallity over aesthetics" motto, and as some mods are very nice on the aesthetics side, they miss on the other one.
@@ -7,7 +7,7 @@
 
   I intend to make this seasoning up-to-date with the main TPF guide, and also making adjustiments when I see fit.
 
-## 2 - Compatibility Notes  
+# 2 - Compatibility Notes  
   Since this is just a "seasoning" of ***The Phoenix Flavour***, I've tried my best to keep it all concise.
   All mods were personally checked and the few relevant conflicts, are resolved in a separate patch.
 
@@ -15,12 +15,12 @@
 
   With the release of TPF 4.5, Phoenix added her own addon called **The Phoenix Flavour - Extended** or shortly, **TPF-X**. I'm basing my seasoning on TPF-X from now on, since it's easier and more convenient for you users :)
 
-## 3 - Prerequisites
+# 3 - Prerequisites
   - Skyrim Special Edition with the 3 DLCs
   - **100% UNTOUCHED** version of **The Phoenix Flavour 4.5.1**, installed either manually or via Wabbajack  
   - **100% UNTOUCHED** version of **TPF-X Addon**, installed manually.
 
-## 4 - Setup
+# 4 - Setup
   - **Profile Creation:**  
     - On MO2, click on the **Profiles** dropdown menu and select `<Manage...>`.  
     - At the new window, select `The Phoenix Flavour - Extended` profile and click `Copy` and name it `Sr. Kaio Seasoning`, and then click `Close`.  
@@ -30,9 +30,9 @@
   
   The instructions here are meant to keep the original profiles intact and I'm not responsible if you mess up your original TPF or TPF-X installation.
 
-## 5 - Mod List
+# 5 - Mod List
 
-  ### 5.1 - Disable Mods  
+  ## 5.1 - Disable Mods  
   Firstly, we're going to **disable** some mods that came with TPF and TPF-X. Don't delete them, because it'd break the original TPF and TPF-X profiles, just disable them by clicking the checkbox at the left side of their names, and making sure they don't have a checkmark anymore.
 
   Since we're based on TPF-X now, some mods are already disabled, just keep them disabled, we're not re-enabling any mods that TPF-X disabled.
@@ -81,7 +81,7 @@
   - [ ] **Facegen Output**
   - [ ] **Nemesis Output**
 
-  ### 5.2 - Install Mods
+  ## 5.2 - Install Mods
   Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical as TPF-X, so leave them UNTOUCHED.
 
   Every downloaded mod must be installed, activated and put under the corresponding separator as the last ones, **UNLESS NOTED OTHERWISE**!
@@ -288,7 +288,7 @@
   - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*
     **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.5.1
 
-## 6 - Finishing Up  
+# 6 - Finishing Up  
   - Download the updated [loadorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply it the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
   - Go to TPF's [Facegen](https://thephoenixflavour.com/tpf/finalisation/facegen/) page, and start following the steps until you arrive at **Regenerating Facegen** part.  
   Use the following setup:  
@@ -307,7 +307,7 @@
     ![image](https://user-images.githubusercontent.com/6069263/114639424-36a0a780-9ca4-11eb-8b21-f98104ae5f0d.png) 
 
  
-## 7 - MCM Configuration
+# 7 - MCM Configuration
   - Go to [TPF Mod Configuration page](https://thephoenixflavour.com/skyrim-se/mod-configuration/), and follow all the steps.
 
   Now, apply the following additional steps
@@ -327,6 +327,6 @@
   - ### **moreHUD**  
     **_Deactivate:_** Everything on Enemy's Level page
 
-## 8 - Changelog  
+# 8 - Changelog  
 
   You can see the changelog [here](CHANGELOG.md)

@@ -1,17 +1,13 @@
 # Sr. Kaio Seasoning - Changelog
 
 ## DEV
-> Last changed 2021/07/03
 
 ### Mod List - Disable Mods
-- **INTERFACE** removed Roboto Font Replacer (no longer in TPF base)
-- **INTERFACE - TPF-X** removed No Lockpick Activate (SKSE) - Updated
-- **MISCELLANEOUS - TPF-X** removed All No Tails (not in TPF-X anymore)
+- I lost track of how many changes I made on this section, so for this time, no accurate changelog for this, you'll need to check the instructions proper, sorry :P
 
 ### Mod List - Installation
 - **ESSENTIAL MODS** removed Assorted mesh fixes (included on base TPF)
 - **MISC STRUCTURES** updated My Road Signs are Beautiful (1.2EN -> 1.3EN)
-- **MISC STRUCTURES** moved WiZkiD Signs from ARCHITECTURE to here
 - **DUNGEONS** removed Improved Dwemer Glass (TPF now covers this one with Dwemer 4K)
 - **GAMEPLAY OVERHAULS** removed Triumvirate (I'll wait for Simon Magus to finish updating its suite, then maybe readding in the future)
 - **NEW CONTENT** updated Penitus Oculatus (0.13.1 -> 0.14)
@@ -21,7 +17,7 @@
 - **MISCELLANEOUS** removed Spell Amnesia
 - **MISCELLANEOUS** added Forget Spell
 - **SKELETON & ANIMATIONS** updated Racial Body Morphs SE (1.1 -> 2.0)
-- **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.5.1 -> 4.7.1)
+- **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.5.1 -> 4.7.2)
 
 
 ## Release 4.5.2

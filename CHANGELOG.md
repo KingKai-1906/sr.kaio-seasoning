@@ -7,7 +7,12 @@
 
 ### Mod List - Installation
 - **ESSENTIAL MODS** removed Assorted mesh fixes (included on base TPF)
+- **FIXES** added Navigator - Navmesh Fixes
+- **FIXES** added Palace of the Kings Marker Fix
+- **FIXES** added Furniture Height Size Fix Enhanced
+- **INTERFACE** added SkyUI Item Card Fixes
 - **MISC STRUCTURES** updated My Road Signs are Beautiful (1.2EN -> 1.3EN)
+- **CLUTTER** added Book Covers Skyrim - Business Ledger FIX
 - **DUNGEONS** removed Improved Dwemer Glass (TPF now covers this one with Dwemer 4K)
 - **GAMEPLAY OVERHAULS** removed Triumvirate (I'll wait for Simon Magus to finish updating its suite, then maybe readding in the future)
 - **NEW CONTENT** updated Penitus Oculatus (0.13.1 -> 0.14)

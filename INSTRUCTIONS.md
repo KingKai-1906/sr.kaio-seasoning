@@ -82,7 +82,19 @@
     **Download:** Main Files > Freed Prisoner Uses Items - 1.0
   - #### [No More Random Guild Thieves](https://www.nexusmods.com/skyrimspecialedition/mods/21570) - Author: *PxR - saqk*  
     **Download:** Main Files > No More Random Guild Thieves - 1.0    
-    
+  - #### [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641) - Author: *tarlazo*
+    **Download:** Main Files > Navigator - Navmesh Fixes - 1.0.6
+    FOMOD Instructions:  
+    - All-In-One
+      - ESP-FE
+    - Modular -- ESP-FE
+      - Select no one  
+    **Download:** Optional Files > Rift Watchtower NavFix - 1.0.1
+  - #### [Palace of the Kings Marker Fix](https://www.nexusmods.com/skyrimspecialedition/mods/52825) - Author: *Charamei*
+    **Download:** Main Files > Palace of the Kings Marker Fix - 1.0
+  - #### [Furniture Height Size Fix Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/32010) - Author: *neab*
+    **Download:** Main Files > Furniture height size fix enhanced 1.11 - 1.11 
+
   ### TWEAKS
   - #### [No Force for Illusion Spells](https://www.nexusmods.com/skyrimspecialedition/mods/38700) - Author: *WankingSkeever*  
     **Download:** Main Files > No Force for Illusion Spells - 0.1
@@ -122,6 +134,14 @@
     **Download:** Optional Files > Main Menu Wallpaper - Book Cover - 1.0
   - #### [FiraCode for Console UI](https://www.nexusmods.com/skyrimspecialedition/mods/12387) - Author: *Hellstorm102*  
     **Download:** Main Files > Fira Code for Skyrim SE - A
+  - #### [SkyUI Item Card Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/29116) - Author: *Gruffys*  
+    **Download:** Main Files > SkyUI Itemcard Fixes - 1.1
+    FOMOD Instructions:  
+    - Page 1
+      - Without Frostfall
+        - Sovngarde ItemCard Fixes
+      - With Frostfall
+        - None
 
   ### GRAPHICS BASELINE
   - #### [More Vanilla Rings](https://www.nexusmods.com/skyrimspecialedition/mods/47198) - Author: *herumorgul*
@@ -147,6 +167,8 @@
       - None
     
   ### CLUTTER
+  - #### [Book Covers Skyrim - Business Ledger FIX](https://www.nexusmods.com/skyrimspecialedition/mods/48470) - Author: *RemmyKun*
+    **Download:** Main Files > Book Covers Skyrim - Business Ledger FIX - 1.0
   - #### [Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637) - Author: *Rallyeator*
     **Download:** Main Files > Rally's Civil War Document Tubes - 1.2  
     FOMOD Instructions:  

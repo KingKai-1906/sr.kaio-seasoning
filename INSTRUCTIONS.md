@@ -102,6 +102,8 @@
     **Download:** Main Files > NPC Name Tweaks - 1.02
   - #### [Solitude Catacombs Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/46699) - Author: *AndrealphusVIII*  
     **Download:** Main Files > Andrealphus' Tweaks - Solitude Catacombs - 1.0
+  - #### [Angi's Camp Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44914) - Author: *Parapets*
+    **Download:** Main Files > Angi's Camp Tweaks - 1.1.0
    
   ### INTERFACE  
   - #### [A Matter of Time - Sr. Kaio Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45785) - Author: *Sr. Kaio*  
@@ -185,6 +187,10 @@
 
     **TODO:** IMAGE HERE WITH LHS PANEL
 
+  ### IMPROVED VANILLA QUESTS  
+  - #### [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) - Author: *TheRegisteredOne - ws - wankingSkeever*  
+    **Download:** Main Files > Penitus Oculatus - 0.14
+
   ### MISCELLANEOUS  
   - #### [Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini)](https://www.nexusmods.com/skyrimspecialedition/mods/37607) - Author: *KaptainCnucklz*  
     **Download:** Main Files > Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition) - 1.0.1
@@ -207,6 +213,16 @@
     **Download:** Main Files > HearthFires - Unique Special Edition Display Room - 6.0
   - #### [Hearthfires Houses Building Fix](https://www.nexusmods.com/skyrimspecialedition/mods/27298) - Author: *Ice885*
     **Download:** Main Files > Hearthfires Houses Building Fix - 0.1
+  - #### [BlockSteal - Prevents accidentally pick up](https://www.nexusmods.com/skyrimspecialedition/mods/18732) - Author: *towawot*
+    **Download:** Main Files > Blocksteal_010_SKSE2017 - 0.10
+  - #### [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645) - Author: *wankingSkeever*
+    **Download:** Main Files > Sweeping Organizes Stuff - Use Broom to Clean Mess - 0.3
+  - #### [Werewolf Killcam Remover](https://www.nexusmods.com/skyrimspecialedition/mods/41925) - Author: *EighmyLupin*
+    **Download:** Main Files > Werewolf Killcam Remover - 1
+  - #### [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670) - Author: *JaySerpa*
+    **Download:** Main Files > Immersive Interactions - 1.36
+  - #### [Disable Cinematic Kills](https://www.nexusmods.com/skyrimspecialedition/mods/169) - Author: *Sable17*
+    **Download:** Main Files > Disable Cinematic Kills - 1.1
   
   ### ASSORTED PLUGINS
   - #### [Stagger Direction Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/43339) - Author: *Maxsu*

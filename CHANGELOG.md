@@ -1,6 +1,7 @@
 # Sr. Kaio Seasoning - Changelog
 
-## DEV
+## Release 4.7.2
+> 2021/08/19
 
 ### Mod List - Disable Mods
 - I lost track of how many changes I made on this section, so for this time, no accurate changelog for this, you'll need to check the instructions proper, sorry :P
@@ -10,17 +11,23 @@
 - **FIXES** added Navigator - Navmesh Fixes
 - **FIXES** added Palace of the Kings Marker Fix
 - **FIXES** added Furniture Height Size Fix Enhanced
+- **TWEAKS** added Angi's Camp Tweaks
 - **INTERFACE** added SkyUI Item Card Fixes
 - **MISC STRUCTURES** updated My Road Signs are Beautiful (1.2EN -> 1.3EN)
 - **CLUTTER** added Book Covers Skyrim - Business Ledger FIX
 - **DUNGEONS** removed Improved Dwemer Glass (TPF now covers this one with Dwemer 4K)
 - **GAMEPLAY OVERHAULS** removed Triumvirate (I'll wait for Simon Magus to finish updating its suite, then maybe readding in the future)
-- **NEW CONTENT** updated Penitus Oculatus (0.13.1 -> 0.14)
+- **IMPROVED VANILLA QUESTS** moved and updated Penitus Oculatus (0.13.1 -> 0.14)
 - **MISCELLANEOUS** moved Enchantments and Potions Work for NPCs - EPW4NPCs (SKSE64) (SPID Plugin ini) here
 - **MISCELLANEOUS** moved Slip off Slopes here
 - **MISCELLANEOUS** updated Reading Is Good (1.0.4 -> 1.1.0)
 - **MISCELLANEOUS** removed Spell Amnesia
 - **MISCELLANEOUS** added Forget Spell
+- **MISCELLANEOUS** added BlockSteal - Prevents accidentally pick up
+- **MISCELLANEOUS** added Sweeping Organizes Stuff - Use Broom to Clean Mess
+- **MISCELLANEOUS** added Disable Cinematic Kills
+- **MISCELLANEOUS** added Werewolf Killcam Remover
+- **MISCELLANEOUS** added Immersive Interactions - Animated Actions
 - **ASSORTED PLUGINS** added Regional Save Names
 - **ASSORTED PLUGINS** added To Your Face Redux
 - **ASSORTED PLUGINS** added Don't Stay in The Water

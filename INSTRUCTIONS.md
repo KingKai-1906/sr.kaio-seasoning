@@ -487,7 +487,7 @@ Now, set your mod order on left-pane to match the following picture:
 
 ## 7 - MCM Configuration
 
-- Go to [TPF Mod Configuration page](https://thephoenixflavour.com/skyrim-se/mod-configuration/), and follow all the steps.
+- Go to [TPF Mod Configuration page](https://thephoenixflavour.com/tpf/mod-configuration/), and follow all the steps.
 
   Now, apply the following additional steps
 

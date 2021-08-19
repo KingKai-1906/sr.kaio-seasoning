@@ -13,29 +13,26 @@
 
   Apart from that, no other compatibility issues reagarding the original TPF.
 
-  With the release of TPF 4.5, Phoenix added her own addon called **The Phoenix Flavour - Extended** or shortly, **TPF-X**. I'm basing my seasoning on TPF-X from now on, since it's easier and more convenient for you users :)
+  With the release of TPF 4.5, Phoenix added her own addon called **The Phoenix Flavour - Extended** or shortly, **TPF-X**; and since the release of TPF 4.7, Phoenix decided to trim base TPF to be even more Vanilla, so I'm following suit and reverting this seasoning to be based on TPF not TPF-X.
 
 # 3 - Prerequisites
   - Skyrim Special Edition with the 3 DLCs
-  - **100% UNTOUCHED** version of **The Phoenix Flavour 4.7.1**, installed either manually or via Wabbajack  
-  - **100% UNTOUCHED** version of **TPF-X Addon**, installed manually.
+  - **100% UNTOUCHED** version of **The Phoenix Flavour 4.7.2**, installed either manually or via Wabbajack  
 
 # 4 - Setup
   - **Profile Creation:**  
     - On MO2, click on the **Profiles** dropdown menu and select `<Manage...>`.  
-    - At the new window, select `The Phoenix Flavour - Extended` profile and click `Copy` and name it `Sr. Kaio Seasoning`, and then click `Close`.  
+    - At the new window, select `The Phoenix Flavour` or `The Phoenix Flavour - Performance Profile` profile and click `Copy` and name it `Sr. Kaio Seasoning`, and then click `Close`.  
     - Back at MO2 main window, click on the dropdown menu again, and select the newly created profile.
     
-  >**WARNING: LEAVE THE ORIGINAL `The Phoenix Flavour` and `The Phoenix Flavour - Extended` PROFILES UNTOUCHED!**  
+  >**WARNING: LEAVE THE ORIGINAL `The Phoenix Flavour` and `The Phoenix Flavour - Performance Profile` PROFILES UNTOUCHED!**  
   
-  The instructions here are meant to keep the original profiles intact and I'm not responsible if you mess up your original TPF or TPF-X installation.
+  The instructions here are meant to keep the original profiles intact and I'm not responsible if you mess up your original TPF installation.
 
 # 5 - Mod List
 
   ## 5.1 - Disable Mods  
-  Firstly, we're going to **disable** some mods that came with TPF and TPF-X. Don't delete them, because it'd break the original TPF and TPF-X profiles, just disable them by clicking the checkbox at the left side of their names, and making sure they don't have a checkmark anymore.
-
-  Since we're based on TPF-X now, some mods are already disabled, just keep them disabled, we're not re-enabling any mods that TPF-X disabled.
+  Firstly, we're going to **disable** some mods that came with TPF. Don't delete them, because it'd break the original TPF profiles, just disable them by clicking the checkbox at the left side of their names, and making sure they don't have a checkmark anymore.
 
   ### INTERFACE
   - [ ] **A Matter of Time - Phoenix Preset**  
@@ -44,8 +41,7 @@
   - [ ] **Yet Another Main Menu Replacer**  
     I just wanted to change it to something more like myself :)
 
-    ### APPEARANCE
-
+  ### APPEARANCE  
     **WARNING**: A LOT of mods will be disabled here, so I'll list the ones that will ***REMAIN*** enabled.  
   - [X] **Expressive Facegen Morphs**
   - [X] **Less Bright Teeth for Expressive Facegen Morphs**
@@ -64,7 +60,7 @@
   - [ ] **Disable Follower Collision**  
     Although it's nice to don't have your way blocked by your followers, unfortunately it adds a lot of clipping issues and bad follower positioning, so, this one is going out!
 
-### FINAL PATCHES
+  ### FINAL PATCHES
   - [ ] **The Phoenix Flavour - Facegen**  
     We'll install new facegens, so this one must be disabled.
 
@@ -73,11 +69,13 @@
     We'll need to re-run the Nemesis patcher, because we're adding a Stagger Fix mod, so before anything, disable the original one from TPF.
 
   ## 5.2 - Install Mods
-  Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical as TPF-X, so leave them UNTOUCHED.
+  Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical TPF ones, so leave them UNTOUCHED.
 
   Every downloaded mod must be installed, activated and put under the corresponding separator as the last ones, **UNLESS NOTED OTHERWISE**!
     
   ### FIXES
+    #### [Skyrim Ultimate Eye Meshes Ruhmastered - No Beast Race Glow](https://www.nexusmods.com/skyrimspecialedition/mods/18147) - Author: *RAN46 bellwood2206 Borearis HHaleyy rxkx22 Ruhadre*  
+    **Download:** Optional Files > SUEMR No Beast Race Glow SSE - v3.0
   - #### [Falkreath Bandit Bridge - dead bandits don't trigger trap](https://www.nexusmods.com/skyrimspecialedition/mods/38477) - Author: *wankingSkeever*  
     **Download:** Main Files > Falkreath Bandit Bridge - dead bandits don't trigger trap - 0.1
   - #### [Freed Prisoner Uses Items](https://www.nexusmods.com/skyrimspecialedition/mods/22152) - Author: *Parapets*  

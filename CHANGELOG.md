@@ -37,7 +37,6 @@
 - **SKELETON & ANIMATIONS** updated Racial Body Morphs SE (1.1 -> 2.0)
 - **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.5.1 -> 4.7.2)
 
-
 ## Release 4.5.2
 > 2021/04/13
 

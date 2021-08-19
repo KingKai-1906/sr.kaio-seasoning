@@ -1,12 +1,16 @@
+<!-- markdownlint-disable MD024 -->
 # Sr. Kaio Seasoning - Changelog
 
 ## Release 4.7.2
+
 > 2021/08/19
 
 ### Mod List - Disable Mods
+
 - I lost track of how many changes I made on this section, so for this time, no accurate changelog for this, you'll need to check the instructions proper, sorry :P
 
 ### Mod List - Installation
+
 - **ESSENTIAL MODS** removed Assorted mesh fixes (included on base TPF)
 - **FIXES** added Navigator - Navmesh Fixes
 - **FIXES** added Palace of the Kings Marker Fix
@@ -38,6 +42,7 @@
 - **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.5.1 -> 4.7.2)
 
 ## Release 4.5.2
+
 > 2021/04/13
 
 Just a little maintenance update to keep on pace with TPF 4.5.2
@@ -45,12 +50,15 @@ Just a little maintenance update to keep on pace with TPF 4.5.2
 Just apply [TPF 4.5.2 changelog update](https://thephoenixflavour.com/tpf/appendix/changelog/#release-452), and you're good to go, the update here is just to refelct the latest changes on main guide.
 
 ### Mod List - Disable Mods
+
 - **VALUABLE ITEMS** removed Septims HD (removed from TPF 4.5.2)
 
 ### Mod List - Installation
+
 - **VALUABLE ITEMS** removed Ancient Imperial Septims (added on TPF 4.5.2)
 
 ## Release 4.5.1
+
 > 2021/04/10
 
 Update to match TPF 4.5.1 release and to revamp a little bit!
@@ -60,6 +68,7 @@ I'm now using the brand new TPF-X Addon, also by Phoenix as base for my seasonin
 This update is not save-safe
 
 ### Mod List - Disable Mods
+
 - **INTERFACE** removed Immersive Lockpicking (removed from TPF)
 - **INTERFACE** removed Immersive Bookreading (removed from TPF)
 - **VALUABLE ITEMS** fixed a typo on Septim HD
@@ -78,6 +87,7 @@ This update is not save-safe
 - **PATCHER OUTPUT** removed AllGUD outputs
 
 ### Mod List - Installation
+
 - **ESSENTIAL MODS** added Assorted mesh fixes
 - **FIXES** removed Bowlegged jump animation fix
 - **FIXES** added Freed Prisoner Uses Items
@@ -109,15 +119,17 @@ This update is not save-safe
 - **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.4.2 -> 4.5.1)
 
 ### Finishing Up
-- Updated instructions to download `loadorder.txt` from https://loadorderlibrary.com/
+
+- Updated instructions to download `loadorder.txt` from <https://loadorderlibrary.com/>
 - Added Instructions to do generate Facegens
 - Removed instructions to run AllGUD scripts
 
 ### MCM Configuration
+
 - Removed GIST Soul Trap instructions
 
-
 ## Release 4.4.2
+
 > 2021/03/07
 
 Update to match TPF 4.4.2 release and to do a little cleanup: JK's interiors and PraedithXVI staves got the boot!
@@ -126,7 +138,8 @@ The interiors were more hassle than gain for me and the staves need some improve
 
 After updating the seasoning for 4.4.2, you'll need to regen Nemesis and AllGUD steps.
 
-The update is save-safe, just **BE SURE** to save outside the following locations before updating:  
+The update is save-safe, just **BE SURE** to save outside the following locations before updating:
+
 - Blue Palace
 - Winking Skeever
 - Dragonsreach
@@ -135,13 +148,16 @@ The update is save-safe, just **BE SURE** to save outside the following location
 - Candlehearth Hall
 
 ### Mod List - Enable
+
 - **INTERIORS** Centered Blue Palace Throne  
   > We're reenabling this one, due to the removal of JK's Blue Palace
 
 ### Mod List - Changed Position
+
 - **CLUTTER:** Ancient Imperial Septims **moved** to **VALUABLE ITEMS**
 
 ### Mod List - Removed
+
 - **INTERIORS:** JK's Dragonsreach
 - **INTERIORS:** JK's Blue Palace
 - **INTERIORS:** JK's The Bannered Mare
@@ -158,26 +174,32 @@ The update is save-safe, just **BE SURE** to save outside the following location
   > Added to TPF
 
 ### Mod List - Added
+
 - **SKELETONS & ANIMATIONS:** Added FOMOD instructions to Ultimate Combat and Creatures Behaviour compatibility for Nemesis
 
 ### Mod List - Updates
+
 - **FINAL PATCH:** Sr. Kaio Seasoning - Conflict Resolution Patch [4.4 to 4.4.2]
 
 ### Finishing Up
+
 - Removed instructions for SSE Engine Fixes, now they are included on TPF
 
-
 ## Release 4.4
+
 > 2021/03/06
 
 ### Mod List - Disable
+
 - **TWEAKS:** Helgen Keep Bandit Chief Executioner
 - **INTERIORS** Centered Blue Palace Throne
 
 ### Mod List - Changed Position
+
 - **MISCELLANEOUS:** NPC AI Process Position Fix - SSE **moved** to **ASSORTED PLUGINS**
 
 ### Mod List - Added
+
 - **GAMEPLAY OVERHAULS:** Triumvirate - Mage Archetypes
 - **NON PLAYER CHARACTERS:** Civil War Deserters
 - **MISCELLANEOUS:** Dragon Wall Wisdom - Readable Dragon Walls
@@ -187,16 +209,18 @@ The update is save-safe, just **BE SURE** to save outside the following location
 - **SKELETONS & ANIMATIONS:** Ultimate Combat and Creatures Behaviour compatibility for Nemesis
 
 ### Mod List - Updates
+
 - **LIGHTING:** Dynamic Volumetric Lighting and Sun Shadows [1.0.1 to 1.0.2]
 - **ASSORTED PLUGINS:** Stagger Direction Fix - SSE [0.96 to 2.02]
 - **ASSORTED PLUGINS:** Reading Is Good (SKSE) [1.0.2 to 1.0.3]
 - **FINAL PATCH:** Sr. Kaio Seasoning - Conflict Resolution Patch [2.0 to 4.4]
 
 ### Finishing Up
+
 - Updated instructions for Nemesis Behavior Engine, to match the new requirement for Stagger Direction Fix
 
-
 ## Release 4.3
+
 >2020/02/22
 
 Changing the versioning system, now my version matches The Phoenix Flavour one, so it is easier to track if you're up to date :)
@@ -250,13 +274,15 @@ This update requires a new game **UNLESS** you skip the update of **Pick up book
 - **FINAL PATCH** Added Sr. Kaio Seasoning - Conflict Resolution Patch
 
 ### Finishing Up
+
 - Added Instructions to re-run Nemesis Behavior Engine
 
 ### MCM Configuration
+
 - Removed instructions for Quick Light, that was dropped from TPF on update 4.3
 
-
 ## Release 1.0
+
 >2020/02/16
 
 - Initial release

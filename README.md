@@ -14,6 +14,6 @@ You can check the changelog at the releases panel!
 
 Please report any issues [here](https://github.com/caiobraz/sr.kaio-seasoning/issues)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z43RGG8)
+If you want to help me get a new rig, consider supporting me on Ko-Fi, the link is at the right bar on repository!
 
 ---

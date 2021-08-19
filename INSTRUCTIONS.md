@@ -13,7 +13,7 @@
 
   Apart from that, no other compatibility issues reagarding the original TPF.
 
-  With the release of TPF 4.5, Phoenix added her own addon called **The Phoenix Flavour - Extended** or shortly, **TPF-X**; and since the release of TPF 4.7, Phoenix decided to trim base TPF to be even more Vanilla, so I'm following suit and reverting this seasoning to be based on TPF not TPF-X.
+  With the release of TPF 4.5, Phoenix added her own addon called **The Phoenix Flavour - Extended** or shortly, **TPF-X**; and since the release of TPF 4.7, Phoenix decided to trim base TPF to be even more Vanilla, so I'm following suit and reverting this seasoning to be based on TPF not TPF-X anymore.
 
 # 3 - Prerequisites
   - Skyrim Special Edition with the 3 DLCs
@@ -74,7 +74,7 @@
   Every downloaded mod must be installed, activated and put under the corresponding separator as the last ones, **UNLESS NOTED OTHERWISE**!
     
   ### FIXES
-    #### [Skyrim Ultimate Eye Meshes Ruhmastered - No Beast Race Glow](https://www.nexusmods.com/skyrimspecialedition/mods/18147) - Author: *RAN46 bellwood2206 Borearis HHaleyy rxkx22 Ruhadre*  
+  - #### [Skyrim Ultimate Eye Meshes Ruhmastered - No Beast Race Glow](https://www.nexusmods.com/skyrimspecialedition/mods/18147) - Author: *RAN46 bellwood2206 Borearis HHaleyy rxkx22 Ruhadre*  
     **Download:** Optional Files > SUEMR No Beast Race Glow SSE - v3.0
   - #### [Falkreath Bandit Bridge - dead bandits don't trigger trap](https://www.nexusmods.com/skyrimspecialedition/mods/38477) - Author: *wankingSkeever*  
     **Download:** Main Files > Falkreath Bandit Bridge - dead bandits don't trigger trap - 0.1
@@ -88,7 +88,7 @@
     - All-In-One
       - ESP-FE
     - Modular -- ESP-FE
-      - Select no one  
+      - Select nothing  
     **Download:** Optional Files > Rift Watchtower NavFix - 1.0.1
   - #### [Palace of the Kings Marker Fix](https://www.nexusmods.com/skyrimspecialedition/mods/52825) - Author: *Charamei*
     **Download:** Main Files > Palace of the Kings Marker Fix - 1.0
@@ -185,7 +185,9 @@
   - #### [Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658) - Author: *The Community and deletepch*  
     **Download:** Main Files > Nordic Faces - Complete Version - 2.8  
 
-    **TODO:** IMAGE HERE WITH LHS PANEL
+  Now, set your mod order on left-pane to match the following picture:
+  
+  ![image](https://user-images.githubusercontent.com/6069263/130117725-ed09c29b-46de-414b-88e7-416c39d03b12.png)
 
   ### IMPROVED VANILLA QUESTS  
   - #### [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) - Author: *TheRegisteredOne - ws - wankingSkeever*  

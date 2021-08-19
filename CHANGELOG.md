@@ -16,6 +16,12 @@
 - **MISCELLANEOUS** updated Reading Is Good (1.0.4 -> 1.1.0)
 - **MISCELLANEOUS** removed Spell Amnesia
 - **MISCELLANEOUS** added Forget Spell
+- **ASSORTED PLUGINS** added Regional Save Names
+- **ASSORTED PLUGINS** added To Your Face Redux
+- **ASSORTED PLUGINS** added Don't Stay in The Water
+- **ASSORTED PLUGINS** added Splashes of Skyrim
+- **ASSORTED PLUGINS** added moreHUD Inventory Edition
+- **ASSORTED PLUGINS** added No Lockpick Activate
 - **SKELETON & ANIMATIONS** updated Racial Body Morphs SE (1.1 -> 2.0)
 - **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.5.1 -> 4.7.2)
 

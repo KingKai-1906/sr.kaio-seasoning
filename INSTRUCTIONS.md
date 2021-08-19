@@ -191,7 +191,18 @@
     **Download:** Main Files > Stagger Direction Fix-SSE V2.02a - V2.02a
   - #### [Wash That Blood Off](https://www.nexusmods.com/skyrimspecialedition/mods/27325) - Author: *powerofthree*
     **Download:** Main Files > Wash That Blood Off - SSE 1.5.97 - 1.2 - 1.2
-    
+  - #### [Regional Save Names](https://www.nexusmods.com/skyrimspecialedition/mods/49698) - Author: *powerofthree*
+    **Download:** Main Files > Regional Save Names (SSE) - 1.1
+  - #### [To Your Face Redux](https://www.nexusmods.com/skyrimspecialedition/mods/49047) - Author: *powerofthree*
+    **Download:** Main Files > To Your Face Redux - SSE - 1.1
+  - #### [Don't Stay in The Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164) - Author: *DevourerPi*
+    **Download:** Main Files > Don't Stay in The Water - 4.1
+  - #### [Splashes of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710) - Author: *powerofthree*
+    **Download:** Main Files > Splashes Of Skyrim - 1.2 - 1.2
+  - #### [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619) - Author: *Ahzaab*
+    **Download:** Main Files > moreHUD Inventory Edition Loose Version - 1.0.18
+  - #### [No Lockpick Activate (SKSE) - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26790) - Author: *lStewieAl*
+    **Download:** Main Files > No Lockpick Activate (SKSE) - Updated - 2.0
 
   ### SKELETON & ANIMATIONS
   - #### [Absolute Arachnophobia](https://www.nexusmods.com/skyrimspecialedition/mods/24058) - Author: *Rougeshot*

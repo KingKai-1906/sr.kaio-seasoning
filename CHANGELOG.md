@@ -20,6 +20,7 @@
 - **MISCELLANEOUS** updated Reading Is Good (1.0.4 -> 1.1.0)
 - **MISCELLANEOUS** removed Spell Amnesia
 - **MISCELLANEOUS** added Forget Spell
+- **SKELETON & ANIMATIONS** updated Racial Body Morphs SE (1.1 -> 2.0)
 - **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.5.1 -> 4.7.1)
 
 

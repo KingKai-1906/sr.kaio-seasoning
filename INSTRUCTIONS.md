@@ -252,7 +252,7 @@
     - Page 2
       - Leave all UNCKECKED
   - #### [Racial Body Morphs SE - Diverse body types and height by Race and Gender](https://www.nexusmods.com/skyrimspecialedition/mods/20684) - Author: *Onholyservicebound*
-    **Download:** Main Files > Racial Body Morphs 1.1 - 1.1
+    **Download:** Main Files > Racial Body Morphs 2.0 - 2.0
 
   ### FINAL PATCHES
   - #### [Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017) - Author: *Sr-Kaio*

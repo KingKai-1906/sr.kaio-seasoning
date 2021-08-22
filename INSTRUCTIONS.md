@@ -345,7 +345,7 @@ Now, set your mod order on left-pane to match the following picture:
 
 - **[Splashes of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710)** - Author: *powerofthree*
 
-    **Download:** Main Files > Splashes Of Skyrim - 1.2 - 1.2
+    **Download:** Main Files > Splashes Of Skyrim - 1.3 - 1.3
 
 - **[moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)** - Author: *Ahzaab*
 

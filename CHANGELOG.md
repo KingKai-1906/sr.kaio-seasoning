@@ -1,6 +1,14 @@
 <!-- markdownlint-disable MD024 -->
 # Sr. Kaio Seasoning - Changelog
 
+## DEV
+
+> TBR
+
+### Mod List - Installation
+
+- **ASSORTED PLUGINS** updated Splashes of Skyrim (1.2 -> 1.3)
+
 ## Release 4.7.2
 
 > 2021/08/19

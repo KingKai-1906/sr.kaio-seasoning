@@ -356,6 +356,10 @@ Now, set your mod order on left-pane to match the following picture:
 
     **Download:** Main Files > No Lockpick Activate (SKSE) - Updated - 2.0
 
+- **[No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)** - Author: *meh321*
+
+    **Download:** Main Files > NoLockPicking v2 - 2
+
 #### SKELETON & ANIMATIONS
 
 - **[Absolute Arachnophobia](https://www.nexusmods.com/skyrimspecialedition/mods/24058)** - Author: *Rougeshot*

@@ -20,6 +20,7 @@
 - **APPEARANCE** readded Disparity and Diversity
 - **IMPROVED VANILLA QUESTS** updated Penitus Oculatus (0.14 -> 0.15.1)
 - **ASSORTED PLUGINS** updated Splashes of Skyrim (1.2 -> 1.3)
+- **ASSORTED PLUGINS** added No Lock Picking
 
 ## Release 4.7.2
 

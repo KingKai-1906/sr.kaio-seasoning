@@ -475,13 +475,12 @@ Don't worry about the left pane order for now, at the end of the guide we'll fig
 
 #### FINAL PATCHES
 
-- **[Sr. Kaio Seasoning - Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/46017)** - Author: *Sr-Kaio*
+- **[Sr. Kaio Seasoning - Hub](https://www.nexusmods.com/skyrimspecialedition/mods/46017)** - Author: *Sr-Kaio*
 
-    **Download:** Misc Files > Sr. Kaio Seasoning - Facegen - 4.7.4
+    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.7.2  
+    **Download:** Miscellaneous Files > Sr. Kaio Seasoning - Facegen - 4.7.4
 
-- **[Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017)** - Author: *Sr-Kaio*
 
-    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.7.2
 
 ## 6 - Finishing Up  
 

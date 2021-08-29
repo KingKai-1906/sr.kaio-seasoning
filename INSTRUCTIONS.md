@@ -52,20 +52,14 @@
 
 #### APPEARANCE  
 
-    **WARNING**: A LOT of mods will be disabled here, so I'll list the ones that will ***REMAIN*** enabled.  
-
-- [X] **Expressive Facegen Morphs**
-- [X] **Less Bright Teeth for Expressive Facegen Morphs**
-- [X] **Expressive Facial Animation - Female Edition**
-- [X] **Expressive Facial Animation - Male Edition**
-- [X] **Natural Hair Colors**
-- [X] **Authentic Eyes**
-- [X] **Beast Race Vampire Fang Removal**
-- [X] **TK Children - TRI Files**
-- [X] **Simple Children**
-- [X] **Simple Children - Babette Glowing Eyes**
-- [X] **Simple Children - Patches**  
-    We'll install an almost full-fledged appearance overhaul (Nordic Faces), so almost this entire section would be overwritten.
+- [ ] **Vanilla Body with UNP Textures**
+- [ ] **Cathedral Player and NPC Overhaul - Female Skin Textures**
+- [ ] **Vitruvia - Skin Texture Overhaul for Males**
+- [ ] **Males of Skyrim - High Poly Hands**
+- [ ] **Mild Complexions**
+- [ ] **Superior Lore-Friendly Hair - HD Textures**
+- [ ] **Xenius Character Enhancement - Dirt Masks**
+- [ ] **Northborn Scars**
 
 #### ASSORTED PLUGINS
 
@@ -248,7 +242,14 @@
 
 - **[Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658)** - Author: *The Community and deletepch*  
 
-    **Download:** Main Files > Nordic Faces - Complete Version - 2.8  
+    **Download:** Optional Files > Nordic Faces - Textures and Body Meshes Only - 2.8
+
+- **[Disparity and Diversity - Diversified Individual Race Textures](https://www.nexusmods.com/skyrimspecialedition/mods/43779)** - Author: *HeartAttackMan*
+
+    **Download:** Optional Files > Disparity and Diversity - DIRT - ESP - 2.0  
+    **Download:** Optional Files > Head Textures - 2K - 2.0  
+    **Download:** Optional Files > Males of Skyrim or Nordic Faces - Default - 2K - 2.1  
+    **Download:** Optional Files > UNP - Default - 2K - 2.0  
 
 Now, set your mod order on left-pane to match the following picture:
   

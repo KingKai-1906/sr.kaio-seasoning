@@ -243,7 +243,7 @@ Now, set your mod order on left-pane to match the following picture:
 
 - **[Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061)** - Author: *TheRegisteredOne - ws - wankingSkeever*  
 
-    **Download:** Main Files > Penitus Oculatus - 0.14
+    **Download:** Main Files > Penitus Oculatus - 0.15.1
 
 #### MISCELLANEOUS  
 

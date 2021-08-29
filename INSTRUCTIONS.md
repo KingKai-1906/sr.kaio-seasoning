@@ -231,15 +231,6 @@
 
     **Download:** Main Files > Book Covers Skyrim - Business Ledger FIX - 1.0
 
-- **[Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637)** - Author: *Rallyeator*
-
-    **Download:** Main Files > Rally's Civil War Document Tubes - 1.2  
-    FOMOD Instructions:  
-  - Page 1
-    - Lore Version
-  - Page 2
-    - Gimme that!
-
 #### APPEARANCE
 
 - **[High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863)** - Author: *Macxhiin*  

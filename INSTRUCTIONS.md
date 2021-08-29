@@ -88,6 +88,13 @@
 
   Every downloaded mod must be installed, activated and put under the corresponding separator as the last ones, **UNLESS NOTED OTHERWISE**!
 
+#### ESSENTIAL MODS
+
+- **[Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061)** - Author: *Subhuman0100*  
+
+    **Download:** Main Files > Vanilla Script microOptimizations - 1.0  
+    Put this mod right below **Unofficial Skyrim Special Edition Patch**.
+
 #### FIXES
 
 - **[Skyrim Ultimate Eye Meshes Ruhmastered - No Beast Race Glow](https://www.nexusmods.com/skyrimspecialedition/mods/18147)** - Author: *RAN46 bellwood2206 Borearis HHaleyy rxkx22 Ruhadre*  
@@ -123,6 +130,14 @@
 - **[Furniture Height Size Fix Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/32010)** - Author: *neab*
 
     **Download:** Main Files > Furniture height size fix enhanced 1.11 - 1.11
+
+- **[Player Eyes Blink Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21713)** - Author: *NasiGorengSpesial*
+
+    **Download:** Main Files > Blinking Player Eyes - 1.3
+
+- **[Animated Static Reload Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53761)** - Author: *Maxsu*
+
+    **Download:** Main Files > Animated Static Reload Fix - SSE - 1.01
 
 #### TWEAKS
 

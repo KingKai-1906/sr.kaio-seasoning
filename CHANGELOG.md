@@ -8,6 +8,7 @@
 ### Mod List - Installation
 
 - **CLUTTER** removed Rally's Civil War Document Tubes (added to TPF)
+- **CLUTTER** Book Covers Skyrim - Business Ledger FIX
 - **ASSORTED PLUGINS** updated Splashes of Skyrim (1.2 -> 1.3)
 
 ## Release 4.7.2

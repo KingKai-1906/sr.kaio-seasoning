@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD024 -->
 # Sr. Kaio Seasoning - Changelog
 
-## DEV
+## Release 4.7.4
 
-> TBR
+> 2021/08/29
 
 ### Mod List - Disable Mods
 
@@ -21,6 +21,7 @@
 - **IMPROVED VANILLA QUESTS** updated Penitus Oculatus (0.14 -> 0.15.1)
 - **ASSORTED PLUGINS** updated Splashes of Skyrim (1.2 -> 1.3)
 - **ASSORTED PLUGINS** added No Lock Picking
+- **FINAL PATCHES** addes Sr. Kaio Seasoning Facegen
 
 ## Release 4.7.2
 

@@ -251,9 +251,7 @@
     **Download:** Optional Files > Males of Skyrim or Nordic Faces - Default - 2K - 2.1  
     **Download:** Optional Files > UNP - Default - 2K - 2.0  
 
-Now, set your mod order on left-pane to match the following picture:
-  
-![image](https://user-images.githubusercontent.com/6069263/130117725-ed09c29b-46de-414b-88e7-416c39d03b12.png)
+Don't worry about the left pane order for now, at the end of the guide we'll figure that ;)
 
 #### IMPROVED VANILLA QUESTS  
 
@@ -477,13 +475,17 @@ Now, set your mod order on left-pane to match the following picture:
 
 #### FINAL PATCHES
 
+- **[Sr. Kaio Seasoning - Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/46017)** - Author: *Sr-Kaio*
+
+    **Download:** Misc Files > Sr. Kaio Seasoning - Facegen - 4.7.4
+
 - **[Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017)** - Author: *Sr-Kaio*
 
-    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.7.1
+    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.7.2
 
 ## 6 - Finishing Up  
 
-- Download the updated [loadorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply it the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
+- Download the updated [loadorder.txt and modorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply them the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
 - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/tpf/finalisation/nemesis/) page, and redo all steps **BUT**
     with an additional detail: before hitting `Update engine` on Nemesis, you need to check both `Jump Behavior Overhaul` and `Maxsu Stagger Direction Fix` checkboxes, check image below:  
     If the generation fails, update engine again and try again, should do it.
@@ -504,11 +506,6 @@ Now, set your mod order on left-pane to match the following picture:
 
     **_Activate:_** Settings > Seasonal Perspective
 
-- ### **Extended UI**  
-
-    **_Activate:_** Show attribute modifiers  
-    **_Activate:_** Show skill modifiers
-
 - ### **Immersive HUD**  
 
     **_Activate:_** Options > Enable fast fade of magicka  
@@ -525,4 +522,4 @@ Now, set your mod order on left-pane to match the following picture:
 
 ## 8 - Changelog
 
-  You can see the changelog [here](CHANGELOG.md)
+You can see the changelog [here](CHANGELOG.md)

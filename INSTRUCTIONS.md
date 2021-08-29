@@ -52,20 +52,14 @@
 
 #### APPEARANCE  
 
-    **WARNING**: A LOT of mods will be disabled here, so I'll list the ones that will ***REMAIN*** enabled.  
-
-- [X] **Expressive Facegen Morphs**
-- [X] **Less Bright Teeth for Expressive Facegen Morphs**
-- [X] **Expressive Facial Animation - Female Edition**
-- [X] **Expressive Facial Animation - Male Edition**
-- [X] **Natural Hair Colors**
-- [X] **Authentic Eyes**
-- [X] **Beast Race Vampire Fang Removal**
-- [X] **TK Children - TRI Files**
-- [X] **Simple Children**
-- [X] **Simple Children - Babette Glowing Eyes**
-- [X] **Simple Children - Patches**  
-    We'll install an almost full-fledged appearance overhaul (Nordic Faces), so almost this entire section would be overwritten.
+- [ ] **Vanilla Body with UNP Textures**
+- [ ] **Cathedral Player and NPC Overhaul - Female Skin Textures**
+- [ ] **Vitruvia - Skin Texture Overhaul for Males**
+- [ ] **Males of Skyrim - High Poly Hands**
+- [ ] **Mild Complexions**
+- [ ] **Superior Lore-Friendly Hair - HD Textures**
+- [ ] **Xenius Character Enhancement - Dirt Masks**
+- [ ] **Northborn Scars**
 
 #### ASSORTED PLUGINS
 
@@ -87,6 +81,13 @@
   Now, we're going to add mods into some sections. I'll just list the mod sections where mods are being added, otherwise, they're 100% identical TPF ones, so leave them UNTOUCHED.
 
   Every downloaded mod must be installed, activated and put under the corresponding separator as the last ones, **UNLESS NOTED OTHERWISE**!
+
+#### ESSENTIAL MODS
+
+- **[Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061)** - Author: *Subhuman0100*  
+
+    **Download:** Main Files > Vanilla Script microOptimizations - 1.0  
+    Put this mod right below **Unofficial Skyrim Special Edition Patch**.
 
 #### FIXES
 
@@ -123,6 +124,14 @@
 - **[Furniture Height Size Fix Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/32010)** - Author: *neab*
 
     **Download:** Main Files > Furniture height size fix enhanced 1.11 - 1.11
+
+- **[Player Eyes Blink Fix](https://www.nexusmods.com/skyrimspecialedition/mods/21713)** - Author: *NasiGorengSpesial*
+
+    **Download:** Main Files > Blinking Player Eyes - 1.3
+
+- **[Animated Static Reload Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53761)** - Author: *Maxsu*
+
+    **Download:** Main Files > Animated Static Reload Fix - SSE - 1.01
 
 #### TWEAKS
 
@@ -225,21 +234,6 @@
     - (Point the Way) Engraved Texture - 2K-1K
     - None
 
-#### CLUTTER
-
-- **[Book Covers Skyrim - Business Ledger FIX](https://www.nexusmods.com/skyrimspecialedition/mods/48470)** - Author: *RemmyKun*
-
-    **Download:** Main Files > Book Covers Skyrim - Business Ledger FIX - 1.0
-
-- **[Rally's Civil War Document Tubes](https://www.nexusmods.com/skyrimspecialedition/mods/47637)** - Author: *Rallyeator*
-
-    **Download:** Main Files > Rally's Civil War Document Tubes - 1.2  
-    FOMOD Instructions:  
-  - Page 1
-    - Lore Version
-  - Page 2
-    - Gimme that!
-
 #### APPEARANCE
 
 - **[High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863)** - Author: *Macxhiin*  
@@ -248,17 +242,22 @@
 
 - **[Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658)** - Author: *The Community and deletepch*  
 
-    **Download:** Main Files > Nordic Faces - Complete Version - 2.8  
+    **Download:** Optional Files > Nordic Faces - Textures and Body Meshes Only - 2.8
 
-Now, set your mod order on left-pane to match the following picture:
-  
-![image](https://user-images.githubusercontent.com/6069263/130117725-ed09c29b-46de-414b-88e7-416c39d03b12.png)
+- **[Disparity and Diversity - Diversified Individual Race Textures](https://www.nexusmods.com/skyrimspecialedition/mods/43779)** - Author: *HeartAttackMan*
+
+    **Download:** Optional Files > Disparity and Diversity - DIRT - ESP - 2.0  
+    **Download:** Optional Files > Head Textures - 2K - 2.0  
+    **Download:** Optional Files > Males of Skyrim or Nordic Faces - Default - 2K - 2.1  
+    **Download:** Optional Files > UNP - Default - 2K - 2.0  
+
+Don't worry about the left pane order for now, at the end of the guide we'll figure that ;)
 
 #### IMPROVED VANILLA QUESTS  
 
 - **[Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061)** - Author: *TheRegisteredOne - ws - wankingSkeever*  
 
-    **Download:** Main Files > Penitus Oculatus - 0.14
+    **Download:** Main Files > Penitus Oculatus - 0.15.1
 
 #### MISCELLANEOUS  
 
@@ -345,7 +344,7 @@ Now, set your mod order on left-pane to match the following picture:
 
 - **[Splashes of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710)** - Author: *powerofthree*
 
-    **Download:** Main Files > Splashes Of Skyrim - 1.2 - 1.2
+    **Download:** Main Files > Splashes Of Skyrim - 1.3 - 1.3
 
 - **[moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)** - Author: *Ahzaab*
 
@@ -354,6 +353,10 @@ Now, set your mod order on left-pane to match the following picture:
 - **[No Lockpick Activate (SKSE) - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/26790)** - Author: *lStewieAl*
 
     **Download:** Main Files > No Lockpick Activate (SKSE) - Updated - 2.0
+
+- **[No Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/32218)** - Author: *meh321*
+
+    **Download:** Main Files > NoLockPicking v2 - 2
 
 #### SKELETON & ANIMATIONS
 
@@ -472,13 +475,17 @@ Now, set your mod order on left-pane to match the following picture:
 
 #### FINAL PATCHES
 
+- **[Sr. Kaio Seasoning - Facegen](https://www.nexusmods.com/skyrimspecialedition/mods/46017)** - Author: *Sr-Kaio*
+
+    **Download:** Misc Files > Sr. Kaio Seasoning - Facegen - 4.7.4
+
 - **[Sr. Kaio Seasoning - Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/46017)** - Author: *Sr-Kaio*
 
-    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.7.1
+    **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.7.2
 
 ## 6 - Finishing Up  
 
-- Download the updated [loadorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply it the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
+- Download the updated [loadorder.txt and modorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply them the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
 - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/tpf/finalisation/nemesis/) page, and redo all steps **BUT**
     with an additional detail: before hitting `Update engine` on Nemesis, you need to check both `Jump Behavior Overhaul` and `Maxsu Stagger Direction Fix` checkboxes, check image below:  
     If the generation fails, update engine again and try again, should do it.
@@ -499,11 +506,6 @@ Now, set your mod order on left-pane to match the following picture:
 
     **_Activate:_** Settings > Seasonal Perspective
 
-- ### **Extended UI**  
-
-    **_Activate:_** Show attribute modifiers  
-    **_Activate:_** Show skill modifiers
-
 - ### **Immersive HUD**  
 
     **_Activate:_** Options > Enable fast fade of magicka  
@@ -520,4 +522,4 @@ Now, set your mod order on left-pane to match the following picture:
 
 ## 8 - Changelog
 
-  You can see the changelog [here](CHANGELOG.md)
+You can see the changelog [here](CHANGELOG.md)

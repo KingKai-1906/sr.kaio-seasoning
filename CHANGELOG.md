@@ -1,6 +1,28 @@
 <!-- markdownlint-disable MD024 -->
 # Sr. Kaio Seasoning - Changelog
 
+## Release 4.7.4
+
+> 2021/08/29
+
+### Mod List - Disable Mods
+
+- **APPEARANCE** updated list of disabled mods
+
+### Mod List - Installation
+
+- **ESSENTIAL MODS** added Vanilla Script (micro)Optimizations
+- **FIXES** added Blinking Player Eyes Fix
+- **FIXES** added Animated Static Reload Fix
+- **CLUTTER** removed Rally's Civil War Document Tubes (added to TPF)
+- **CLUTTER** Book Covers Skyrim - Business Ledger FIX
+- **APPEARANCE** changed file for Nordic Faces
+- **APPEARANCE** readded Disparity and Diversity
+- **IMPROVED VANILLA QUESTS** updated Penitus Oculatus (0.14 -> 0.15.1)
+- **ASSORTED PLUGINS** updated Splashes of Skyrim (1.2 -> 1.3)
+- **ASSORTED PLUGINS** added No Lock Picking
+- **FINAL PATCHES** addes Sr. Kaio Seasoning Facegen
+
 ## Release 4.7.2
 
 > 2021/08/19

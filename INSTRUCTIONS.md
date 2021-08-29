@@ -225,12 +225,6 @@
     - (Point the Way) Engraved Texture - 2K-1K
     - None
 
-#### CLUTTER
-
-- **[Book Covers Skyrim - Business Ledger FIX](https://www.nexusmods.com/skyrimspecialedition/mods/48470)** - Author: *RemmyKun*
-
-    **Download:** Main Files > Book Covers Skyrim - Business Ledger FIX - 1.0
-
 #### APPEARANCE
 
 - **[High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863)** - Author: *Macxhiin*  

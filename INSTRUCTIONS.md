@@ -332,7 +332,7 @@ Don't worry about the left pane order for now, at the end of the guide we'll fig
 
 - **[Regional Save Names](https://www.nexusmods.com/skyrimspecialedition/mods/49698)** - Author: *powerofthree*
 
-    **Download:** Main Files > Regional Save Names (SSE) - 1.1
+    **Download:** Main Files > Regional Save Names - 1.1 (SSE Version, not the VR one)
 
 - **[To Your Face Redux](https://www.nexusmods.com/skyrimspecialedition/mods/49047)** - Author: *powerofthree*
 

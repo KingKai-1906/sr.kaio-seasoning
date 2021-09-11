@@ -480,8 +480,6 @@ Don't worry about the left pane order for now, at the end of the guide we'll fig
     **Download:** Main Files > Sr. Kaio Seasoning - Conflict Resolution Patch - 4.7.2  
     **Download:** Miscellaneous Files > Sr. Kaio Seasoning - Facegen - 4.7.4
 
-
-
 ## 6 - Finishing Up  
 
 - Download the updated [loadorder.txt and modorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply them the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)

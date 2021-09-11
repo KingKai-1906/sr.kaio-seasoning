@@ -295,10 +295,6 @@
 - **[Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670)** - Author: *JaySerpa*
 
   **Download:** Main Files > Immersive Interactions - 1.36
-
-- **[Disable Cinematic Kills](https://www.nexusmods.com/skyrimspecialedition/mods/169)** - Author: *Sable17*
-
-  **Download:** Main Files > Disable Cinematic Kills - 1.1
   
 #### ASSORTED PLUGINS
 

@@ -8,6 +8,8 @@
 ### Mod List - Installation
 
 - **INTERFACE** removed Undiscovered Means Unknown
+- **MISCELLANEOUS** removed Werewolf Killcam Remover
+- **MISCELLANEOUS** removed Disable Cinematic Kills
 
 ## Release 4.7.4
 
@@ -16,7 +18,6 @@
 ### Mod List - Disable Mods
 
 - **APPEARANCE** updated list of disabled mods
-- **MISCELLANEOUS** removed Werewolf Killcam Remover
 
 ### Mod List - Installation
 

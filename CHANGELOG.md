@@ -1,6 +1,14 @@
 <!-- markdownlint-disable MD024 -->
 # Sr. Kaio Seasoning - Changelog
 
+## Release 4.7.6
+
+> 2021/09/11
+
+### Mod List - Installation
+
+- **INTERFACE** removed Undiscovered Means Unknown
+
 ## Release 4.7.4
 
 > 2021/08/29

@@ -171,23 +171,6 @@
 
   **Download:** Main Files > Pastel SkyUI SkyHUD - 5.2.PASTEL
 
-- **[Undiscovered Means Unknown](https://www.nexusmods.com/skyrimspecialedition/mods/9762)** - Author: *Brin_aSair*  
-
-  **Download:** Main Files > Undiscovered Means Unknown - Compass and Map Markers - 2.11  
-  FOMOD Instructions:  
-  - Page 1
-    - Only the Compass
-    - Yes
-  - Page 2
-    - Yes
-    - SkyHUD
-  - Page 3
-    - Pastel Map Markers
-  - Page 4
-    - Yes
-  - Page 5
-    - Nothing (an Invisible Icon)
-
 - **[Main Menu Wallpaper](https://www.nexusmods.com/skyrimspecialedition/mods/1178)** - Author: *Hellstorm102*  
 
   **Download:** Optional Files > Main Menu Wallpaper - Book Cover - 1.0

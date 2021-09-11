@@ -16,6 +16,7 @@
 ### Mod List - Disable Mods
 
 - **APPEARANCE** updated list of disabled mods
+- **MISCELLANEOUS** removed Werewolf Killcam Remover
 
 ### Mod List - Installation
 

@@ -292,10 +292,6 @@
 
   **Download:** Main Files > Sweeping Organizes Stuff - Use Broom to Clean Mess - 0.3
 
-- **[Werewolf Killcam Remover](https://www.nexusmods.com/skyrimspecialedition/mods/41925)** - Author: *EighmyLupin*
-
-  **Download:** Main Files > Werewolf Killcam Remover - 1
-
 - **[Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670)** - Author: *JaySerpa*
 
   **Download:** Main Files > Immersive Interactions - 1.36

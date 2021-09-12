@@ -15,6 +15,8 @@
 - **MISCELLANEOUS** removed Werewolf Killcam Remover
 - **MISCELLANEOUS** removed Disable Cinematic Kills
 - **MISCELLANEOUS** updated Sweeping Organizes Stuff - Use Broom to Clean Mess (0.3 -> 0.4)
+- **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.7.2 -> 4.7.6)
+- **FINAL PATCHES** updated Sr. Kaio Seasoning - Facegen (4.7.4 -> 4.7.6)
 
 ## Release 4.7.4
 

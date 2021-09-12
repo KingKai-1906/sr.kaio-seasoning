@@ -1,6 +1,23 @@
 <!-- markdownlint-disable MD024 -->
 # Sr. Kaio Seasoning - Changelog
 
+## Release 4.7.6
+
+> 2021/09/12
+
+### Mod List - Disable Mods
+
+- **APPEARANCE** updated list of disabled mods (again)
+
+### Mod List - Installation
+
+- **INTERFACE** removed Undiscovered Means Unknown (now using SkyHUD to achieve the same result)
+- **MISCELLANEOUS** removed Werewolf Killcam Remover
+- **MISCELLANEOUS** removed Disable Cinematic Kills
+- **MISCELLANEOUS** updated Sweeping Organizes Stuff - Use Broom to Clean Mess (0.3 -> 0.4)
+- **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.7.2 -> 4.7.6)
+- **FINAL PATCHES** updated Sr. Kaio Seasoning - Facegen (4.7.4 -> 4.7.6)
+
 ## Release 4.7.4
 
 > 2021/08/29

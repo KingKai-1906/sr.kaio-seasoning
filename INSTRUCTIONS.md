@@ -53,12 +53,11 @@
 #### APPEARANCE  
 
 - [ ] **Vanilla Body with UNP Textures**
-- [ ] **Cathedral Player and NPC Overhaul - Female Skin Textures**
+- [ ] **Lucid Skin**
 - [ ] **Vitruvia - Skin Texture Overhaul for Males**
 - [ ] **Males of Skyrim - High Poly Hands**
-- [ ] **Mild Complexions**
+- [ ] **Vanilla Hair - Salt and Wind**
 - [ ] **Superior Lore-Friendly Hair - HD Textures**
-- [ ] **Xenius Character Enhancement - Dirt Masks**
 - [ ] **Northborn Scars**
 
 #### ASSORTED PLUGINS

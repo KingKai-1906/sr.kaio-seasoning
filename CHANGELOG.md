@@ -5,6 +5,10 @@
 
 > 2021/09/11
 
+### Mod List - Disable Mods
+
+- **APPEARANCE** updated list of disabled mods (again)
+
 ### Mod List - Installation
 
 - **INTERFACE** removed Undiscovered Means Unknown

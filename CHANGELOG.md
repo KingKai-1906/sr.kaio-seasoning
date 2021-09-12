@@ -14,6 +14,7 @@
 - **INTERFACE** removed Undiscovered Means Unknown
 - **MISCELLANEOUS** removed Werewolf Killcam Remover
 - **MISCELLANEOUS** removed Disable Cinematic Kills
+- **MISCELLANEOUS** updated Sweeping Organizes Stuff - Use Broom to Clean Mess (0.3 -> 0.4)
 
 ## Release 4.7.4
 

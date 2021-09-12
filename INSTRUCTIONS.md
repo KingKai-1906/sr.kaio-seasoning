@@ -289,7 +289,7 @@
 
 - **[Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645)** - Author: *wankingSkeever*
 
-  **Download:** Main Files > Sweeping Organizes Stuff - Use Broom to Clean Mess - 0.3
+  **Download:** Main Files > Sweeping Organizes Stuff - Use Broom to Clean Mess - 0.4
 
 - **[Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670)** - Author: *JaySerpa*
 

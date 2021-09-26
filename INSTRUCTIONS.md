@@ -463,7 +463,7 @@
 
 ## 6 - Finishing Up  
 
-- Download the updated [loadorder.txt and modorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply them the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
+- Download the updated [loadorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply them the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
 - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/tpf/finalisation/nemesis/) page, and redo all steps **BUT**
     with an additional detail: before hitting `Update engine` on Nemesis, you need to check both `Jump Behavior Overhaul` and `Maxsu Stagger Direction Fix` checkboxes, check image below:  
     If the generation fails, update engine again and try again, should do it.

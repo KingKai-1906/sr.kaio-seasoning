@@ -23,7 +23,7 @@
 ## 3 - Prerequisites
 
 - Skyrim Special Edition with the 3 DLCs
-- **100% UNTOUCHED** version of **The Phoenix Flavour 4.7.6**, installed either manually or via Wabbajack  
+- **100% UNTOUCHED** version of **The Phoenix Flavour 4.8.0.x**, installed either manually or via Wabbajack  
 
 ## 4 - Setup
 
@@ -85,7 +85,7 @@
 
 - **[Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061)** - Author: *Subhuman0100*  
 
-  **Download:** Main Files > Vanilla Script microOptimizations - 1.0  
+  **Download:** Main Files > Vanilla Script microOptimizations - 1.1  
   Put this mod right below **Unofficial Skyrim Special Edition Patch**.
 
 #### FIXES
@@ -446,7 +446,13 @@
 
 - **[Racial Body Morphs SE - Diverse body types and height by Race and Gender](https://www.nexusmods.com/skyrimspecialedition/mods/20684)** - Author: *Onholyservicebound*
 
-  **Download:** Main Files > Racial Body Morphs 2.0 - 2.0
+  **Download:** Main Files > Racial Body Morphs 2.1 - 1.0
+
+#### UTILITIES
+
+- **[powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)** - Author: *powerofthree*
+
+  **Download:** Main Files > Papyrus Extender SSE - 4.5.1 - 4.5.1
 
 #### FINAL PATCHES
 
@@ -457,7 +463,7 @@
 
 ## 6 - Finishing Up  
 
-- Download the updated [loadorder.txt and modorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply them the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
+- Download the updated [loadorder.txt](https://loadorderlibrary.com/lists/sr-kaio-seasoning) from the awesome Load Order Library page, and apply them the same way [Phoenix does on her guide](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt)
 - Go to TPF's [Nemesis Behavior Engine](https://thephoenixflavour.com/tpf/finalisation/nemesis/) page, and redo all steps **BUT**
     with an additional detail: before hitting `Update engine` on Nemesis, you need to check both `Jump Behavior Overhaul` and `Maxsu Stagger Direction Fix` checkboxes, check image below:  
     If the generation fails, update engine again and try again, should do it.

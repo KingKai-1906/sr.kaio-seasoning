@@ -23,7 +23,7 @@
 ## 3 - Prerequisites
 
 - Skyrim Special Edition with the 3 DLCs
-- **100% UNTOUCHED** version of **The Phoenix Flavour 4.7.6**, installed either manually or via Wabbajack  
+- **100% UNTOUCHED** version of **The Phoenix Flavour 4.8.0.x**, installed either manually or via Wabbajack  
 
 ## 4 - Setup
 
@@ -85,7 +85,7 @@
 
 - **[Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061)** - Author: *Subhuman0100*  
 
-  **Download:** Main Files > Vanilla Script microOptimizations - 1.0  
+  **Download:** Main Files > Vanilla Script microOptimizations - 1.1  
   Put this mod right below **Unofficial Skyrim Special Edition Patch**.
 
 #### FIXES
@@ -446,7 +446,13 @@
 
 - **[Racial Body Morphs SE - Diverse body types and height by Race and Gender](https://www.nexusmods.com/skyrimspecialedition/mods/20684)** - Author: *Onholyservicebound*
 
-  **Download:** Main Files > Racial Body Morphs 2.0 - 2.0
+  **Download:** Main Files > Racial Body Morphs 2.1 - 1.0
+
+#### UTILITIES
+
+- **[powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)** - Author: *powerofthree*
+
+  **Download:** Main Files > Papyrus Extender SSE - 4.5.1 - 4.5.1
 
 #### FINAL PATCHES
 

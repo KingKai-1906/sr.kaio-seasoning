@@ -1,6 +1,17 @@
 <!-- markdownlint-disable MD024 -->
 # Sr. Kaio Seasoning - Changelog
 
+## Release 4.8.0.x
+
+> 2021/09/26
+
+### Mod List - Installation
+
+- **ESSENTIAL MODS** updated Vanilla Script (micro)Optimizations (1.0 -> 1.1)
+- **SKELETON & ANIMATIONS** updated Racial Body Morphs SE (2.0 -> 2.1)
+- **UTILITIES** added powerofthree's Papyrus Extender
+- **FINAL PATCHES** updated Sr. Kaio Seasoning - Conflict Resolution Patch (4.7.6 -> 4.8.0)
+
 ## Release 4.7.6
 
 > 2021/09/12
